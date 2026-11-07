@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Squallhunter",
+  "card": {
+    "id": "DRG_211",
+    "dbfId": 54956,
+    "name": "돌풍사냥꾼",
+    "text": "<b>주문 공격력 +2</b>\n<b>과부하:</b> (2)",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "nativeSetId": 1347,
+    "set": "DRAGONS",
+    "rarity": "COMMON",
+    "race": "용족",
+    "races": [
+      "DRAGON"
+    ],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 5,
+    "health": 7,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS18-039.tif:6f8a0cffdf2e4eda86bc3c99992c83e6",
+    "flavor": "\"세상은 어제와 같고 시간은 흐르고 있고 머리 위로 돌풍이 분다...\"",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 192,
+        "name": "주문 공격력",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 24
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 215,
+        "name": "과부하",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>주문 공격력 +2</b>\n<b>과부하:</b> (2)",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1347,
+    "slug": "descent-of-dragons",
+    "name": "용의 강림",
+    "type": "expansion",
+    "englishName": "Descent Of Dragons"
+  },
+  "setOrder": 26,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

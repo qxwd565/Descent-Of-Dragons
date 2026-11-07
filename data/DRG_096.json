@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Bandersmosh",
+  "card": {
+    "id": "DRG_096",
+    "dbfId": 55643,
+    "name": "독깨비",
+    "text": "이 하수인은 내 손에 있으면\n내 턴이 시작될 때마다 무작위\n<b>전설</b> 하수인으로 변신합니다.\n능력치는 5/5가 됩니다.",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "nativeSetId": 1347,
+    "set": "DRAGONS",
+    "rarity": "LEGENDARY",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 5,
+    "attack": 5,
+    "health": 5,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS18-131.tif:8b993f65b6d04a7fb9d89b19f5767d63",
+    "flavor": "두억시니가 말하기를 언제나 독기에 가득 차있다고 합니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]이 하수인은 내 손에 있으면\n내 턴이 시작될 때마다 무작위\n<b>전설</b> 하수인으로 변신합니다.\n능력치는 5/5가 됩니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1347,
+    "slug": "descent-of-dragons",
+    "name": "용의 강림",
+    "type": "expansion",
+    "englishName": "Descent Of Dragons"
+  },
+  "setOrder": 26,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Faceless Corruptor",
+  "card": {
+    "id": "DRG_076",
+    "dbfId": 55426,
+    "name": "얼굴 없는 타락자",
+    "text": "<b>속공</b>, <b>전투의 함성:</b> 아군 하수인을 이 하수인으로 변신시킵니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1347,
+    "set": "DRAGONS",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 5,
+    "attack": 5,
+    "health": 4,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS18-165.tif:3f04b4286f2740a7bc4c52dbda53d646",
+    "flavor": "부인 라줄은 얼굴에 뭔가 집착하는 게 분명합니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>속공</b>, <b>전투의 함성:</b> 아군 하수인을 이 하수인으로 변신시킵니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1347,
+    "slug": "descent-of-dragons",
+    "name": "용의 강림",
+    "type": "expansion",
+    "englishName": "Descent Of Dragons"
+  },
+  "setOrder": 26,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

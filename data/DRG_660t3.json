@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Galakrond, Azeroth's End",
+  "card": {
+    "id": "DRG_660t3",
+    "dbfId": 57418,
+    "name": "아제로스의 종말 갈라크론드",
+    "text": "<b>전투의 함성:</b>\n무작위 적 하수인 넷을\n처치합니다. 5/2 발톱을\n장착합니다.",
+    "type": "HERO",
+    "cardClass": "PRIEST",
+    "classes": [],
+    "nativeSetId": 1347,
+    "set": "DRAGONS",
+    "rarity": "LEGENDARY",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 7,
+    "attack": 0,
+    "health": 30,
+    "armor": 5,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS18-092.tif:208788d85ba14e90b887c31496189db7",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 30
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 3
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 292,
+        "name": "방어도",
+        "value": 5
+      },
+      {
+        "id": 380,
+        "name": "영웅 능력",
+        "value": 55810
+      },
+      {
+        "id": 1365,
+        "name": "갈라크론드 영웅 카드",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]<b>전투의 함성:</b>\n무작위 적 하수인 넷을\n처치합니다. 5/2 발톱을\n장착합니다.",
+    "nativeTextBuilder": 8
+  },
+  "root": false,
+  "relatedIds": [
+    55810
+  ],
+  "expansion": {
+    "id": 1347,
+    "slug": "descent-of-dragons",
+    "name": "용의 강림",
+    "type": "expansion",
+    "englishName": "Descent Of Dragons"
+  },
+  "setOrder": 26,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

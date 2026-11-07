@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Dragon Claw",
+  "card": {
+    "id": "DRG_238ht",
+    "dbfId": 55819,
+    "name": "용의 발톱",
+    "text": "",
+    "type": "WEAPON",
+    "cardClass": "INVALID",
+    "classes": [],
+    "nativeSetId": 1347,
+    "set": "DRAGONS",
+    "rarity": "",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 5,
+    "attack": 5,
+    "health": 0,
+    "armor": 0,
+    "durability": 2,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS18-156.tif:3973bf1778914383bd4c490e9a072ba5",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      }
+    ],
+    "nativeRawText": "",
+    "nativeTextBuilder": 0
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1347,
+    "slug": "descent-of-dragons",
+    "name": "용의 강림",
+    "type": "expansion",
+    "englishName": "Descent Of Dragons"
+  },
+  "setOrder": 26,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

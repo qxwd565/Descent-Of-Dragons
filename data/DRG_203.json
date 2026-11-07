@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Veiled Worshipper",
+  "card": {
+    "id": "DRG_203",
+    "dbfId": 54890,
+    "name": "장막이 드리운 신봉자",
+    "text": "<b>전투의 함성:</b>\n내가 2회 <b>기원</b>했으면,\n카드를 3장 뽑습니다.",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "nativeSetId": 1347,
+    "set": "DRAGONS",
+    "rarity": "EPIC",
+    "race": "언데드",
+    "races": [
+      "UNDEAD"
+    ],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 5,
+    "health": 4,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS18-147.tif:2b99655bc3c947f7a61ea2565c664a51",
+    "flavor": "규정에 맞는 신봉자 의복을 입고 있지 않다면 갈라크론드가 당신을 맨 마지막에 잡아먹지 않을 수도 있습니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1263,
+        "name": "기원",
+        "value": 1
+      },
+      {
+        "id": 3623,
+        "name": "게임 태그 3623",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]<b>전투의 함성:</b>\n내가 2회 <b>기원</b>했으면,\n카드를 3장 뽑습니다.",
+    "nativeTextBuilder": 7
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1347,
+    "slug": "descent-of-dragons",
+    "name": "용의 강림",
+    "type": "expansion",
+    "englishName": "Descent Of Dragons"
+  },
+  "setOrder": 26,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

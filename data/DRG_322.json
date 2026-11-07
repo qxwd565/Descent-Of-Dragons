@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Dragoncaster",
+  "card": {
+    "id": "DRG_322",
+    "dbfId": 55280,
+    "name": "용술사",
+    "text": "<b>전투의 함성:</b> 내 손에 용족이\n있으면, 이번 턴에 내가\n시전하는 다음 주문의\n비용이 (0)이 됩니다.",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "classes": [],
+    "nativeSetId": 1347,
+    "set": "DRAGONS",
+    "rarity": "RARE",
+    "race": "드레나이",
+    "races": [
+      "DRAENEI"
+    ],
+    "spellSchool": "",
+    "cost": 6,
+    "attack": 4,
+    "health": 4,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS18-016.tif:a2efe72587cbfb64ba6f7181e54d91d6",
+    "flavor": "용을 타면서 마법을 사용하는 건 쉽지 않습니다. 토끼를 떨어트리기 너무 쉽거든요.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "nativeRawText": "[x]<b>전투의 함성:</b> 내 손에 용족이\n있으면, 이번 턴에 내가\n시전하는 다음 주문의\n비용이 (0)이 됩니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1347,
+    "slug": "descent-of-dragons",
+    "name": "용의 강림",
+    "type": "expansion",
+    "englishName": "Descent Of Dragons"
+  },
+  "setOrder": 26,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

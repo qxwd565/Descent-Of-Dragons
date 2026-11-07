@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Galakrond, the Tempest",
+  "card": {
+    "id": "DRG_620",
+    "dbfId": 57427,
+    "name": "폭풍의 갈라크론드",
+    "text": "<b>전투의 함성:</b> <b>속공</b> 능력이 있는 2/2 폭풍을 둘 소환합니다.\n<i>(두 번 <b>기원</b>하면 강화됩니다.)</i>",
+    "type": "HERO",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "nativeSetId": 1347,
+    "set": "DRAGONS",
+    "rarity": "LEGENDARY",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 7,
+    "attack": 0,
+    "health": 30,
+    "armor": 5,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS18-123.tif:1f1dda9470c14ac5b41c18960af96cce",
+    "flavor": "거센 바람 사이로 하가사가 소리쳤습니다. \"넌 휘몰아치는 폭풍처럼 강력하구나!\" 그러자 바람이 답했습니다. \"난 폭풍 그 자체니라.\"",
+    "nativeTags": [
+      {
+        "id": 3,
+        "name": "효과 수치 2",
+        "value": 2
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 30
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 3
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 292,
+        "name": "방어도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 380,
+        "name": "영웅 능력",
+        "value": 55808
+      },
+      {
+        "id": 782,
+        "name": "카드 설명 생성 방식",
+        "value": 8
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1365,
+        "name": "갈라크론드 영웅 카드",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 2936,
+        "name": "게임 태그 2936",
+        "value": 1
+      },
+      {
+        "id": 3623,
+        "name": "게임 태그 3623",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b> <b>속공</b> 능력이 있는 2/2 폭풍을 둘 소환합니다.\n[x]<i>(@)</i>",
+    "nativeTextBuilder": 8
+  },
+  "root": true,
+  "relatedIds": [
+    55808,
+    57432,
+    57433,
+    55809,
+    57434,
+    57435,
+    57436,
+    55819
+  ],
+  "expansion": {
+    "id": 1347,
+    "slug": "descent-of-dragons",
+    "name": "용의 강림",
+    "type": "expansion",
+    "englishName": "Descent Of Dragons"
+  },
+  "setOrder": 26,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

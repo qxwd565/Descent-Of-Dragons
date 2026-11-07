@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Shield of Galakrond",
+  "card": {
+    "id": "DRG_242",
+    "dbfId": 55166,
+    "name": "갈라크론드의 방패",
+    "text": "<b>도발</b>, <b>전투의 함성:</b> 갈라크론드의 강림을 <b>기원</b>합니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1347,
+    "set": "DRAGONS",
+    "rarity": "COMMON",
+    "race": "드레나이",
+    "races": [
+      "DRAENEI"
+    ],
+    "spellSchool": "",
+    "cost": 5,
+    "attack": 4,
+    "health": 5,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS18-061.tif:80c30599e4b84ee59d6a9b8ee0af2963",
+    "flavor": "사실 저 방패면 갈라크론드의 발가락 정도만 보호할 수 있겠군요.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1263,
+        "name": "기원",
+        "value": 1
+      },
+      {
+        "id": 3623,
+        "name": "게임 태그 3623",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>도발</b>, <b>전투의 함성:</b> 갈라크론드의 강림을 <b>기원</b>합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [
+    57416,
+    55810,
+    57419,
+    55806,
+    57427,
+    55808,
+    57329,
+    55807,
+    57413,
+    55805,
+    57417,
+    57418,
+    55819,
+    57421,
+    57420,
+    53160,
+    53161,
+    53162,
+    52897,
+    52900,
+    53163,
+    55378,
+    57432,
+    57433,
+    55809,
+    57434,
+    57435,
+    57436,
+    57330,
+    57331,
+    55366,
+    57414,
+    57415
+  ],
+  "expansion": {
+    "id": 1347,
+    "slug": "descent-of-dragons",
+    "name": "용의 강림",
+    "type": "expansion",
+    "englishName": "Descent Of Dragons"
+  },
+  "setOrder": 26,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

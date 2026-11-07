@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Dark Skies",
+  "card": {
+    "id": "DRG_204",
+    "dbfId": 54891,
+    "name": "검은 하늘",
+    "text": "무작위 하수인에게\n피해를 $1 줍니다.\n내 손에 있는 카드의\n수만큼 반복합니다.",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "nativeSetId": 1347,
+    "set": "DRAGONS",
+    "rarity": "EPIC",
+    "race": "",
+    "races": [],
+    "spellSchool": "FEL",
+    "cost": 3,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS18-052.tif:1597d1d4f0bf4d1db8954ca38c25d1bb",
+    "flavor": "\"...이제 여기에 불꽃을 한 움큼 뿌려주세요.\"",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 7
+      }
+    ],
+    "nativeRawText": "[x]무작위 하수인에게\n피해를 $1 줍니다.\n내 손에 있는 카드의\n수만큼 반복합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1347,
+    "slug": "descent-of-dragons",
+    "name": "용의 강림",
+    "type": "expansion",
+    "englishName": "Descent Of Dragons"
+  },
+  "setOrder": 26,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}
