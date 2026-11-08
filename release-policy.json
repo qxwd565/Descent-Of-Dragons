@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "timezone": "Asia/Seoul",
+  "default": {
+    "date": "2019-12-11",
+    "status": "verified"
+  },
+  "prefixes": {
+    "DRG_": {
+      "date": "2019-12-11",
+      "status": "verified"
+    }
+  },
+  "cards": {},
+  "sources": {
+    "main": "https://hearthstone.blizzard.com/ko-kr/news/23190446/11-6"
+  }
+}
