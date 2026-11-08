@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>부가 퀘스트:</b> 정령을 두 턴 연속으로 내야 합니다.\n<b>보상:</b> 내 덱에서 주문을 셋 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

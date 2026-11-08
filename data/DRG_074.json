@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b>\n내 다음 턴까지 내 다른 기계들에게 <b>은신</b>을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

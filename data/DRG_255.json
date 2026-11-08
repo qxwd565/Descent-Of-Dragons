@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>부가 퀘스트:</b> 내 영웅 능력을 3회 사용해야 합니다.\n<b>보상:</b> 2/1 오염된 노움을 셋 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

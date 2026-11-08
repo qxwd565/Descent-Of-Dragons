@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "내 하수인들이 <b>빙결</b> 상태가 되지 않습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -71,7 +71,9 @@
       }
     ],
     "nativeRawText": "내가 해적을 낸 후에,\n이 하수인을 내 손에서\n소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

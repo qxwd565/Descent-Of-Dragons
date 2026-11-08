@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>부가 퀘스트:</b> <b>속공</b> 하수인을 셋 소환해야 합니다. <b>보상:</b> <b>속공</b> 능력이 있는 4/4 그리핀을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

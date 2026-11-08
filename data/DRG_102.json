@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>주문 공격력 +2</b>\n<b>전투의 함성:</b> 용족을 <b>발견</b>합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

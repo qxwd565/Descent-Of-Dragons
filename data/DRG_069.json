@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 상대편의 방어도를 파괴합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

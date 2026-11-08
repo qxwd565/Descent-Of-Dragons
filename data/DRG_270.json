@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 손에 용족이 있으면, 강화된 마법사 주문을 <b>발견</b>합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]카드를 3장 뽑습니다.\n내 손에 용족이 있으면,\n비용이 (3) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

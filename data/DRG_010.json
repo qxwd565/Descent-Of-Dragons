@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, <b>전투의 함성:</b>\n내 덱에서 <b>속공</b>\n하수인을 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

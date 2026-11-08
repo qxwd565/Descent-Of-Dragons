@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 0/3 알을\n둘 소환합니다. 알들은 다음\n턴에 <b>속공</b> 능력이 있는 4/4\n비룡으로 부화합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

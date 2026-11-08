@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성</b>:& 무작위 해적을 내 손으로 가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

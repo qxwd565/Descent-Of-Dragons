@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "하수인에게\n+1/+2를 부여합니다.\n내 손에 용족이 있으면,\n<b>천상의 보호막</b>도 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

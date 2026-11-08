@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 상대편의 다음 영웅 능력의 비용이 (2) 증가합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

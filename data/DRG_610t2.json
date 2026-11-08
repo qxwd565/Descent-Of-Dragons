@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 카드를 2장 뽑습니다. 그 카드들의 비용이 (0)이 됩니다.\n[x]<i>(@)</i>",
-    "nativeTextBuilder": 8
+    "nativeTextBuilder": 8,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [

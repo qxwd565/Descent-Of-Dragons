@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "카드를 뽑습니다. 내 손에 용족이 있으면, 빈 마나 수정도 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

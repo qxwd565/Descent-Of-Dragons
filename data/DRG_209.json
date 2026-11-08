@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "내 영웅이 피해를 받을 때마다 6/6 황천의 비룡을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

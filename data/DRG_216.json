@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "[x]내 마나 수정이\n<b>과부하</b>된 동안 공격력을\n+1 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

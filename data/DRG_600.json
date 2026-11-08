@@ -109,7 +109,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 무작위 악마를 소환합니다.\n[x]<i>(@)</i>",
-    "nativeTextBuilder": 8
+    "nativeTextBuilder": 8,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

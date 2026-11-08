@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "<b>뽑을 때 시전</b>\n무작위 용족을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

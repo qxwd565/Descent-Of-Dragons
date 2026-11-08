@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "내 손에 있는 용족 하나당 공격력을 +2 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

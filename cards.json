@@ -52,7 +52,9 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_007",
@@ -108,7 +110,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_008",
@@ -164,7 +168,9 @@
           "name": "부가 퀘스트",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_010",
@@ -243,7 +249,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_019",
@@ -332,7 +340,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_020",
@@ -411,7 +421,9 @@
         53163,
         55378,
         60588
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_021",
@@ -492,7 +504,9 @@
         57414,
         57415,
         55819
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_022",
@@ -538,7 +552,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_023",
@@ -611,7 +627,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_024",
@@ -689,7 +707,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_025",
@@ -758,7 +778,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_026",
@@ -841,7 +863,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_027",
@@ -920,7 +944,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_028",
@@ -979,7 +1005,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_030",
@@ -1049,7 +1077,9 @@
         57421,
         57420,
         55819
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_031",
@@ -1119,7 +1149,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "COMBO"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_033",
@@ -1171,7 +1203,9 @@
           "name": "주문 속성",
           "value": 2
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_034",
@@ -1235,7 +1269,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_035",
@@ -1316,7 +1352,9 @@
       ],
       "relatedDbfIds": [
         56044
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_035t",
@@ -1370,7 +1408,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_036",
@@ -1462,7 +1502,9 @@
       ],
       "relatedDbfIds": [
         55111
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_036t",
@@ -1505,7 +1547,9 @@
       ],
       "mechanics": [
         "CASTS_WHEN_DRAWN"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_037",
@@ -1574,7 +1618,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_049",
@@ -1647,7 +1693,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_050",
@@ -1762,7 +1810,9 @@
         55366,
         57414,
         57415
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_051",
@@ -1818,7 +1868,9 @@
           "name": "부가 퀘스트",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_052",
@@ -1887,7 +1939,9 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_054",
@@ -1965,7 +2019,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_055",
@@ -2038,7 +2094,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_056",
@@ -2103,7 +2161,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_057",
@@ -2176,7 +2236,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_058",
@@ -2232,7 +2294,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_059",
@@ -2302,7 +2366,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_060",
@@ -2381,7 +2447,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_061",
@@ -2460,7 +2528,9 @@
       "mechanics": [
         "WINDFURY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_062",
@@ -2524,7 +2594,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_063",
@@ -2594,7 +2666,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_064",
@@ -2664,7 +2738,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_065",
@@ -2743,7 +2819,9 @@
       "mechanics": [
         "TAUNT",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_066",
@@ -2821,7 +2899,9 @@
       ],
       "mechanics": [
         "POISONOUS"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_067",
@@ -2885,7 +2965,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_068",
@@ -2963,7 +3045,9 @@
       ],
       "mechanics": [
         "FREEZE"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_069",
@@ -3027,7 +3111,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_070",
@@ -3091,7 +3177,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_071",
@@ -3172,7 +3260,9 @@
       ],
       "relatedDbfIds": [
         55437
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_071t",
@@ -3226,7 +3316,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_072",
@@ -3305,7 +3397,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_073",
@@ -3375,7 +3469,9 @@
           "name": "모면",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_074",
@@ -3454,7 +3550,9 @@
       "mechanics": [
         "STEALTH",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_075",
@@ -3527,7 +3625,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_076",
@@ -3597,7 +3697,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_077",
@@ -3661,7 +3763,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_078",
@@ -3720,7 +3824,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_079",
@@ -3804,7 +3910,9 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_081",
@@ -3868,7 +3976,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_082",
@@ -3941,7 +4051,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_084",
@@ -4010,7 +4122,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_086",
@@ -4091,7 +4205,9 @@
         "DEATHRATTLE",
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_088",
@@ -4166,7 +4282,9 @@
           "name": "지속 효과",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_089",
@@ -4244,7 +4362,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_090",
@@ -4322,7 +4442,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_091",
@@ -4399,7 +4521,9 @@
       ],
       "relatedDbfIds": [
         55471
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_091t",
@@ -4444,7 +4568,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_092",
@@ -4508,7 +4634,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_095",
@@ -4586,7 +4714,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_096",
@@ -4647,7 +4777,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_099",
@@ -4761,7 +4893,9 @@
         55805,
         57414,
         57415
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_099t1",
@@ -4801,7 +4935,9 @@
           "name": "게임 태그 1200",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_099t2",
@@ -4841,7 +4977,9 @@
           "name": "게임 태그 1200",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_099t2t",
@@ -4914,7 +5052,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_099t3",
@@ -4954,7 +5094,9 @@
           "name": "게임 태그 1200",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_099t4",
@@ -4999,7 +5141,9 @@
           "name": "게임 태그 1200",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_102",
@@ -5089,7 +5233,9 @@
         "SPELLPOWER",
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_104",
@@ -5167,7 +5313,9 @@
       ],
       "relatedDbfIds": [
         55314
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_104t2",
@@ -5221,7 +5369,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_106",
@@ -5286,7 +5436,9 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_107",
@@ -5378,7 +5530,9 @@
       ],
       "relatedDbfIds": [
         564
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_109",
@@ -5448,7 +5602,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_201",
@@ -5541,7 +5697,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_202",
@@ -5623,7 +5781,9 @@
         57331,
         55819,
         55366
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_203",
@@ -5706,7 +5866,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_204",
@@ -5763,7 +5925,9 @@
           "name": "주문 속성",
           "value": 7
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_205",
@@ -5833,7 +5997,9 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_206",
@@ -5885,7 +6051,9 @@
           "name": "주문 속성",
           "value": 7
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_207",
@@ -5963,7 +6131,9 @@
       ],
       "relatedDbfIds": [
         54895
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_207t",
@@ -6025,7 +6195,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_208",
@@ -6094,7 +6266,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_209",
@@ -6180,7 +6354,9 @@
       ],
       "relatedDbfIds": [
         56228
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_209t",
@@ -6234,7 +6410,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_211",
@@ -6318,7 +6496,9 @@
       "mechanics": [
         "SPELLPOWER",
         "OVERLOAD"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_213",
@@ -6396,7 +6576,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_215",
@@ -6456,7 +6638,9 @@
       ],
       "mechanics": [
         "OVERLOAD"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_216",
@@ -6529,7 +6713,9 @@
       ],
       "mechanics": [
         "OVERLOAD"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_217",
@@ -6601,7 +6787,9 @@
       ],
       "relatedDbfIds": [
         56375
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_217t",
@@ -6689,7 +6877,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_218",
@@ -6774,7 +6964,9 @@
         57434,
         57435,
         57436
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_219",
@@ -6826,7 +7018,9 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_223",
@@ -6905,7 +7099,9 @@
       "mechanics": [
         "OVERLOAD",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_224",
@@ -6993,7 +7189,9 @@
       "relatedDbfIds": [
         55025,
         55026
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_224t",
@@ -7052,7 +7250,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_224t2",
@@ -7124,7 +7324,9 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_225",
@@ -7210,7 +7412,9 @@
       ],
       "relatedDbfIds": [
         57055
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_225t",
@@ -7264,7 +7468,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_226",
@@ -7342,7 +7548,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_229",
@@ -7432,7 +7640,9 @@
         "BATTLECRY",
         "DISCOVER",
         "LIFESTEAL"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_231",
@@ -7505,7 +7715,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_232",
@@ -7587,7 +7799,9 @@
       "relatedDbfIds": [
         57936,
         847
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_232t",
@@ -7670,7 +7884,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_233",
@@ -7724,7 +7940,9 @@
       ],
       "mechanics": [
         "DIVINE_SHIELD"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_235",
@@ -7802,7 +8020,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_238ht",
@@ -7842,7 +8062,9 @@
           "name": "카드 유형",
           "value": 7
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_238p",
@@ -7877,7 +8099,9 @@
           "name": "카드 유형",
           "value": 10
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_238p2",
@@ -7912,7 +8136,9 @@
           "name": "카드 유형",
           "value": 10
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_238p3",
@@ -7947,7 +8173,9 @@
           "name": "카드 유형",
           "value": 10
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_238p4",
@@ -7990,7 +8218,9 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_238p5",
@@ -8025,7 +8255,9 @@
           "name": "카드 유형",
           "value": 10
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_238t12t2",
@@ -8084,7 +8316,9 @@
           "name": "임프",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_238t14t3",
@@ -8146,7 +8380,9 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_239",
@@ -8207,7 +8443,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_242",
@@ -8336,7 +8574,9 @@
         55366,
         57414,
         57415
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_246",
@@ -8399,7 +8639,9 @@
         57417,
         57418,
         55819
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_247",
@@ -8469,7 +8711,9 @@
         57421,
         57420,
         55819
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_248",
@@ -8550,7 +8794,9 @@
         57434,
         57435,
         57436
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_249",
@@ -8619,7 +8865,9 @@
         57414,
         57415,
         55819
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_250",
@@ -8683,7 +8931,9 @@
         57331,
         55819,
         55366
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_251",
@@ -8755,7 +9005,9 @@
       ],
       "relatedDbfIds": [
         55821
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_251t",
@@ -8817,7 +9069,9 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_252",
@@ -8896,7 +9150,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "SECRET"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_253",
@@ -8952,7 +9208,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_254",
@@ -9052,7 +9310,9 @@
         "BATTLECRY",
         "POISONOUS",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_255",
@@ -9122,7 +9382,9 @@
       "relatedDbfIds": [
         658,
         41127
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_256",
@@ -9205,7 +9467,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_257",
@@ -9274,7 +9538,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_258",
@@ -9351,7 +9617,9 @@
       ],
       "relatedDbfIds": [
         57723
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_258t",
@@ -9409,7 +9677,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_270",
@@ -9510,7 +9780,9 @@
         56173,
         56170,
         56373
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_270t1",
@@ -9556,7 +9828,9 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_270t11",
@@ -9607,7 +9881,9 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_270t2",
@@ -9653,7 +9929,9 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_270t4",
@@ -9699,7 +9977,9 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_270t5",
@@ -9745,7 +10025,9 @@
           "name": "주문 속성",
           "value": 3
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_270t6",
@@ -9791,7 +10073,9 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_270t6t",
@@ -9875,7 +10159,9 @@
           "name": "효과 지속 시각 효과",
           "value": 0
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_270t7",
@@ -9921,7 +10207,9 @@
           "name": "주문 속성",
           "value": 2
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_270t8",
@@ -9962,7 +10250,9 @@
           "name": "주문 속성",
           "value": 3
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_270t9",
@@ -10008,7 +10298,9 @@
           "name": "주문 속성",
           "value": 2
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_300",
@@ -10101,7 +10393,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_301",
@@ -10182,7 +10476,9 @@
         53163,
         55378,
         60588
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_302",
@@ -10262,7 +10558,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_303",
@@ -10353,7 +10651,9 @@
         57417,
         57418,
         55819
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_304",
@@ -10426,7 +10726,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_306",
@@ -10510,7 +10812,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_307",
@@ -10556,7 +10860,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_308",
@@ -10631,7 +10937,9 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_309",
@@ -10729,7 +11037,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_310",
@@ -10807,7 +11117,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_311",
@@ -10878,7 +11190,9 @@
         55041,
         55040,
         56371
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_311a",
@@ -10922,7 +11236,9 @@
       ],
       "relatedDbfIds": [
         56371
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_311b",
@@ -10971,7 +11287,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_311t",
@@ -11051,7 +11369,9 @@
           "name": "게임 태그 2831",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_312",
@@ -11123,7 +11443,9 @@
       ],
       "relatedDbfIds": [
         56371
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_313",
@@ -11213,7 +11535,9 @@
         "TAUNT",
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_314",
@@ -11273,7 +11597,9 @@
       ],
       "relatedDbfIds": [
         56371
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_315",
@@ -11320,7 +11646,9 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_317",
@@ -11392,7 +11720,9 @@
       ],
       "relatedDbfIds": [
         1050
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_318",
@@ -11459,7 +11789,9 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_319",
@@ -11542,7 +11874,9 @@
       ],
       "relatedDbfIds": [
         56371
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_320",
@@ -11633,7 +11967,9 @@
       ],
       "relatedDbfIds": [
         55778
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_320t",
@@ -11682,7 +12018,9 @@
       ],
       "mechanics": [
         "CASTS_WHEN_DRAWN"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_321",
@@ -11739,7 +12077,9 @@
           "name": "주문 속성",
           "value": 2
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_322",
@@ -11822,7 +12162,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_323",
@@ -11891,7 +12233,9 @@
       ],
       "relatedDbfIds": [
         55282
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_323t",
@@ -11945,7 +12289,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_324",
@@ -12014,7 +12360,9 @@
       ],
       "relatedDbfIds": [
         395
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_401",
@@ -12078,7 +12426,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_402",
@@ -12156,7 +12506,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_403",
@@ -12220,7 +12572,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_500",
@@ -12272,7 +12626,9 @@
           "name": "주문 속성",
           "value": 2
         }
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_600",
@@ -12383,7 +12739,9 @@
         57331,
         55819,
         55366
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_600t2",
@@ -12469,7 +12827,9 @@
       ],
       "relatedDbfIds": [
         55807
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_600t3",
@@ -12545,7 +12905,9 @@
       ],
       "relatedDbfIds": [
         55807
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_610",
@@ -12662,7 +13024,9 @@
         53163,
         55378,
         55819
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_610t2",
@@ -12748,7 +13112,9 @@
       ],
       "relatedDbfIds": [
         55806
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_610t3",
@@ -12824,7 +13190,9 @@
       ],
       "relatedDbfIds": [
         55806
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_620",
@@ -12944,7 +13312,9 @@
         57435,
         57436,
         55819
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_620t2",
@@ -13036,7 +13406,9 @@
       ],
       "relatedDbfIds": [
         55808
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_620t3",
@@ -13118,7 +13490,9 @@
       ],
       "relatedDbfIds": [
         55808
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_620t4",
@@ -13180,7 +13554,9 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_620t5",
@@ -13242,7 +13618,9 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_620t6",
@@ -13304,7 +13682,9 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_650",
@@ -13414,7 +13794,9 @@
         57414,
         57415,
         55819
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_650t2",
@@ -13500,7 +13882,9 @@
       ],
       "relatedDbfIds": [
         55805
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_650t3",
@@ -13576,7 +13960,9 @@
       ],
       "relatedDbfIds": [
         55805
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_660",
@@ -13686,7 +14072,9 @@
         57417,
         57418,
         55819
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_660t2",
@@ -13772,7 +14160,9 @@
       ],
       "relatedDbfIds": [
         55810
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     },
     {
       "id": "DRG_660t3",
@@ -13848,7 +14238,9 @@
       ],
       "relatedDbfIds": [
         55810
-      ]
+      ],
+      "releasedAt": "2019-12-11",
+      "releaseStatus": "verified"
     }
   ]
 }

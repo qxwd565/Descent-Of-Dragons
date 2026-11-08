@@ -82,7 +82,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 내 손에\n용족이 있으면, 무작위\n멀록을 2마리\n소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

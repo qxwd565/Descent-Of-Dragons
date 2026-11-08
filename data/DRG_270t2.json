@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "[x]무작위 마법사 주문\n셋을 내 손으로\n가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "내 덱에 있는 모든 하수인에게 +2/+2를 부여하지만 비용을 (1) 증가시킵니다. <i>(최대 10)</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

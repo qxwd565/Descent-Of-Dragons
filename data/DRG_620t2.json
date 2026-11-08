@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> <b>속공</b> 능력이 있는 4/4 폭풍을 둘 소환합니다.\n[x]<i>(@)</i>",
-    "nativeTextBuilder": 8
+    "nativeTextBuilder": 8,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [

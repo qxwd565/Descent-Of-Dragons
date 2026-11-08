@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]내 턴이 시작될 때,\n<b>속공</b> 능력이 있는 4/4\n폭풍 비룡으로\n변신합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

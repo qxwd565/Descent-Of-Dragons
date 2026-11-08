@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "하수인에게 생명력 +2와 <b>도발</b>을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

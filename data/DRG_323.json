@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>부가 퀘스트:</b> 주문으로 마나를 8 소모해야 합니다.\n<b>보상:</b> 6/6 용족을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

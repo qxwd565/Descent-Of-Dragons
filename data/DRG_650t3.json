@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 하수인을 넷 뽑습니다. 그 하수인들에게 +4/+4를 부여합니다. 5/2 발톱을 장착합니다.",
-    "nativeTextBuilder": 8
+    "nativeTextBuilder": 8,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [

@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "[x]내 영웅이 공격할\n때마다 생명력을\n#3 회복합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

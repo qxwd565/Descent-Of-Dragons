@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "내 다른 공포의 까마귀 하나당 공격력을 +3 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

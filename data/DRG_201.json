@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b>\n내 손에 용족이 있으면,\n다른 <b>모든</b> 캐릭터에게\n피해를 3 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

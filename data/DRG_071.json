@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리:</b> 상대편의 덱에 1/1 알바트로스를 둘 섞어 넣습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

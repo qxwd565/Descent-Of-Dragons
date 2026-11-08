@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "[x]한 턴에 내 주문을\n3번 시전한 후에, 5/5\n정령을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

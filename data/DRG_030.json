@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]하수인에게 공격력을\n+1 부여합니다.\n갈라크론드의 강림을\n<b>기원</b>합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

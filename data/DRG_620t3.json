@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> <b>속공</b> 능력이 있는 8/8 폭풍을 둘 소환합니다. 5/2 발톱을 장착합니다.",
-    "nativeTextBuilder": 8
+    "nativeTextBuilder": 8,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [

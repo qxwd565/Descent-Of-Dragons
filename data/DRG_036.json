@@ -92,7 +92,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리:</b> 내 덱에 양초를 섞어 넣습니다. 양초를 뽑으면, 밀랍비늘을 다시 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

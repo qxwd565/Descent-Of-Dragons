@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "[x]<b>죽음의 메아리:</b> 내 손에 있는\n무작위 용족에게 +3/+3과\n이 <b>죽음의 메아리</b> 능력을\n부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "[x]<b>부가 퀘스트:</b> 내 영웅으로\n2회 공격해야 합니다.\n<b>보상:</b> '할퀴기' 주문 셋을\n내 손으로 가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

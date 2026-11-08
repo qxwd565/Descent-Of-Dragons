@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "모든 적에게 $6의 피해를 무작위로 나누어 입힙니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

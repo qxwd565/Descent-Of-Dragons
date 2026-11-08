@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "내가 영웅 능력을 사용한 후에, 내 덱에 있는 <b>비밀</b>을 시전합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

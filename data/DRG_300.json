@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내가 2회 <b>기원</b>했으면, 내 손에 있는 카드들의 비용을 (1) 감소시킵니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "내 턴이 시작될 때, 생명력을 +1 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

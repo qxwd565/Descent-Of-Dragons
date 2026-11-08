@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]카드를 2장 뽑습니다.\n내 나무정령 하나당\n비용이 (2)씩 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

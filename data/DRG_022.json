@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "하수인이 자신의 양옆에 있는 하수인 중 하나를 공격하게 만듭니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

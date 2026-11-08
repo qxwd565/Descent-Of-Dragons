@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "<b>모든</b> 하수인에게\n피해를 $2 줍니다. 내 손에\n용족이 있으면, 적\n하수인에게만 피해를 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

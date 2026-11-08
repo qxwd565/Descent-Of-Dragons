@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>\n<b>질풍</b>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

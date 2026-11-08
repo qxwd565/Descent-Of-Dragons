@@ -92,7 +92,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리:</b>\n'신비한 화살'을 내\n손으로 가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

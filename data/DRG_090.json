@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 지난 턴에\n상대편이 낸 카드를\n모두 냅니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2019-12-11",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],
