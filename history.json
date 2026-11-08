@@ -1,17 +1,1 @@
-{
-  "schema": 1,
-  "set": "Descent Of Dragons",
-  "cards": {
-    "57694": {
-      "id": "DRG_099t4",
-      "history": [
-        {
-          "before": "2026-07-22",
-          "changes": {
-            "cost": 9
-          }
-        }
-      ]
-    }
-  }
-}
+{"schema":1,"set":"Descent Of Dragons","cards":{"57694":{"id":"DRG_099t4","history":[{"before":"2026-07-22","changes":{"cost":9}}]}}}
