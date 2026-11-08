@@ -54,15 +54,7 @@
       }
     ],
     "nativeRawText": "[x]다른 <b>모든</b> 하수인에게\n피해를 5 줍니다.",
-    "nativeTextBuilder": 0,
-    "history": [
-      {
-        "before": "2026-07-22",
-        "changes": {
-          "cost": 9
-        }
-      }
-    ]
+    "nativeTextBuilder": 0
   },
   "root": false,
   "relatedIds": [],
