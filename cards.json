@@ -52,7 +52,10 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "DRG_007",
@@ -108,7 +111,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_008",
@@ -164,7 +171,11 @@
           "name": "부가 퀘스트",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_010",
@@ -186,7 +197,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -243,7 +254,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_019",
@@ -265,7 +278,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -332,7 +345,9 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_020",
@@ -411,7 +426,11 @@
         53163,
         55378,
         60588
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_021",
@@ -492,7 +511,11 @@
         57414,
         57415,
         55819
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_022",
@@ -538,7 +561,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_023",
@@ -560,7 +587,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -611,7 +638,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_024",
@@ -633,7 +662,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "PIRATE",
+      "race": "해적",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -689,7 +718,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_025",
@@ -758,7 +789,11 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_026",
@@ -780,7 +815,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -841,7 +876,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_027",
@@ -920,7 +957,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_028",
@@ -979,7 +1020,11 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_030",
@@ -1049,7 +1094,11 @@
         57421,
         57420,
         55819
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_031",
@@ -1119,7 +1168,11 @@
       "mechanics": [
         "DEATHRATTLE",
         "COMBO"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_033",
@@ -1171,7 +1224,10 @@
           "name": "주문 속성",
           "value": 2
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "DRG_034",
@@ -1235,7 +1291,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_035",
@@ -1257,7 +1317,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "PIRATE",
+      "race": "해적",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -1316,7 +1376,9 @@
       ],
       "relatedDbfIds": [
         56044
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_035t",
@@ -1324,7 +1386,7 @@
       "name": "하늘 해적",
       "type": "MINION",
       "cardClass": "ROGUE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -1337,7 +1399,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "PIRATE",
+      "race": "해적",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -1370,7 +1432,10 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_036",
@@ -1393,7 +1458,7 @@
         "ELEMENTAL",
         "DRAGON"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령, 용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -1462,7 +1527,9 @@
       ],
       "relatedDbfIds": [
         55111
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_036t",
@@ -1470,7 +1537,7 @@
       "name": "밀랍비늘의 양초",
       "type": "SPELL",
       "cardClass": "ROGUE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 5,
       "text": "<b>뽑을 때 시전</b>\n밀랍비늘을 소환합니다.",
@@ -1505,7 +1572,12 @@
       ],
       "mechanics": [
         "CASTS_WHEN_DRAWN"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_037",
@@ -1574,7 +1646,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_049",
@@ -1596,7 +1672,7 @@
       "races": [
         "MURLOC"
       ],
-      "race": "MURLOC",
+      "race": "멀록",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -1647,7 +1723,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_050",
@@ -1762,7 +1840,11 @@
         55366,
         57414,
         57415
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_051",
@@ -1818,7 +1900,11 @@
           "name": "부가 퀘스트",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_052",
@@ -1826,7 +1912,7 @@
       "name": "용족의 졸개",
       "type": "MINION",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>전투의 함성:</b>\n용족을 <b>발견</b>합니다.",
@@ -1887,7 +1973,12 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_054",
@@ -1909,7 +2000,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -1965,7 +2056,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_055",
@@ -1987,7 +2080,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "PIRATE",
+      "race": "해적",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -2038,7 +2131,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_056",
@@ -2060,7 +2155,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "PIRATE",
+      "race": "해적",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -2103,7 +2198,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_057",
@@ -2125,7 +2222,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -2176,7 +2273,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_058",
@@ -2232,7 +2331,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_059",
@@ -2302,7 +2405,11 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_060",
@@ -2325,7 +2432,7 @@
         "ELEMENTAL",
         "BEAST"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령, 야수",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -2381,7 +2488,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_061",
@@ -2403,7 +2512,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -2460,7 +2569,9 @@
       "mechanics": [
         "WINDFURY",
         "RUSH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_062",
@@ -2524,7 +2635,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_063",
@@ -2594,7 +2709,11 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_064",
@@ -2664,7 +2783,11 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_065",
@@ -2686,7 +2809,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -2743,7 +2866,9 @@
       "mechanics": [
         "TAUNT",
         "RUSH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_066",
@@ -2765,7 +2890,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -2821,7 +2946,9 @@
       ],
       "mechanics": [
         "POISONOUS"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_067",
@@ -2885,7 +3012,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_068",
@@ -2907,7 +3038,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -2963,7 +3094,9 @@
       ],
       "mechanics": [
         "FREEZE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_069",
@@ -3027,7 +3160,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_070",
@@ -3091,7 +3228,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_071",
@@ -3113,7 +3254,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -3172,7 +3313,9 @@
       ],
       "relatedDbfIds": [
         55437
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_071t",
@@ -3180,7 +3323,7 @@
       "name": "알바트로스",
       "type": "MINION",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -3193,7 +3336,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -3226,7 +3369,10 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_072",
@@ -3249,7 +3395,7 @@
         "MURLOC",
         "DRAGON"
       ],
-      "race": "MURLOC",
+      "race": "멀록, 용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -3305,7 +3451,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_073",
@@ -3327,7 +3475,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -3375,7 +3523,9 @@
           "name": "모면",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_074",
@@ -3397,7 +3547,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -3454,7 +3604,9 @@
       "mechanics": [
         "STEALTH",
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_075",
@@ -3476,7 +3628,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -3527,7 +3679,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_076",
@@ -3597,7 +3751,11 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_077",
@@ -3661,7 +3819,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_078",
@@ -3720,7 +3882,11 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_079",
@@ -3742,7 +3908,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -3804,7 +3970,9 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "RUSH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_081",
@@ -3868,7 +4036,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_082",
@@ -3890,7 +4062,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "PIRATE",
+      "race": "해적",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -3941,7 +4113,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_084",
@@ -4010,7 +4184,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_086",
@@ -4091,7 +4269,11 @@
         "DEATHRATTLE",
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_088",
@@ -4113,7 +4295,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -4166,7 +4348,9 @@
           "name": "지속 효과",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_089",
@@ -4188,7 +4372,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -4244,7 +4428,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_090",
@@ -4266,7 +4452,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -4322,7 +4508,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_091",
@@ -4399,7 +4587,11 @@
       ],
       "relatedDbfIds": [
         55471
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_091t",
@@ -4407,7 +4599,7 @@
       "name": "촉수",
       "type": "MINION",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -4444,7 +4636,12 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_092",
@@ -4508,7 +4705,11 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_095",
@@ -4530,7 +4731,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -4586,7 +4787,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_096",
@@ -4647,7 +4850,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_099",
@@ -4761,7 +4968,11 @@
         55805,
         57414,
         57415
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_099t1",
@@ -4769,7 +4980,7 @@
       "name": "학살",
       "type": "SPELL",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "적 영웅에게 피해를 5 줍니다.\n내 영웅의 생명력을\n5 회복시킵니다.",
@@ -4801,7 +5012,12 @@
           "name": "게임 태그 1200",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_099t2",
@@ -4809,7 +5025,7 @@
       "name": "생환",
       "type": "SPELL",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "<b>도발</b> 능력이 있는 8/8 용을 소환합니다.",
@@ -4841,7 +5057,12 @@
           "name": "게임 태그 1200",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_099t2t",
@@ -4849,7 +5070,7 @@
       "name": "되살아난 용",
       "type": "MINION",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 8,
       "text": "<b>도발</b>",
@@ -4863,7 +5084,7 @@
         "UNDEAD",
         "DRAGON"
       ],
-      "race": "UNDEAD",
+      "race": "언데드, 용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -4914,7 +5135,10 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_099t3",
@@ -4922,7 +5146,7 @@
       "name": "지배",
       "type": "SPELL",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "내 다른 하수인들에게 +2/+2를 부여합니다.",
@@ -4954,7 +5178,12 @@
           "name": "게임 태그 1200",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_099t4",
@@ -4962,7 +5191,7 @@
       "name": "섬멸",
       "type": "SPELL",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "다른 <b>모든</b> 하수인에게\n피해를 5 줍니다.",
@@ -5000,14 +5229,11 @@
           "value": 1
         }
       ],
-      "history": [
-        {
-          "before": "2026-07-22",
-          "changes": {
-            "cost": 9
-          }
-        }
-      ]
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_102",
@@ -5029,7 +5255,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -5097,7 +5323,9 @@
         "SPELLPOWER",
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_104",
@@ -5119,7 +5347,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -5175,7 +5403,9 @@
       ],
       "relatedDbfIds": [
         55314
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_104t2",
@@ -5183,7 +5413,7 @@
       "name": "눈 정령",
       "type": "MINION",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 5,
       "text": "",
@@ -5196,7 +5426,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -5229,7 +5459,10 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_106",
@@ -5294,7 +5527,10 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "DRG_107",
@@ -5317,7 +5553,7 @@
         "ELEMENTAL",
         "BEAST"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령, 야수",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -5386,7 +5622,9 @@
       ],
       "relatedDbfIds": [
         564
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_109",
@@ -5408,7 +5646,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -5456,7 +5694,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_201",
@@ -5478,7 +5718,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -5549,7 +5789,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_202",
@@ -5631,7 +5873,11 @@
         57331,
         55819,
         55366
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_203",
@@ -5653,7 +5899,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -5714,7 +5960,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_204",
@@ -5771,7 +6019,10 @@
           "name": "주문 속성",
           "value": 7
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "DRG_205",
@@ -5841,7 +6092,10 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "DRG_206",
@@ -5893,7 +6147,10 @@
           "name": "주문 속성",
           "value": 7
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "DRG_207",
@@ -5971,7 +6228,11 @@
       ],
       "relatedDbfIds": [
         54895
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_207t",
@@ -5979,7 +6240,7 @@
       "name": "심연불 파괴자",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>도발</b>",
@@ -5992,7 +6253,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -6033,7 +6294,10 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_208",
@@ -6102,7 +6366,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_209",
@@ -6124,7 +6392,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -6188,7 +6456,9 @@
       ],
       "relatedDbfIds": [
         56228
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_209t",
@@ -6196,7 +6466,7 @@
       "name": "황천의 비룡",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 6,
       "text": "",
@@ -6209,7 +6479,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -6242,7 +6512,10 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_211",
@@ -6264,7 +6537,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -6326,7 +6599,9 @@
       "mechanics": [
         "SPELLPOWER",
         "OVERLOAD"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_213",
@@ -6348,7 +6623,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -6404,7 +6679,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_215",
@@ -6464,7 +6741,10 @@
       ],
       "mechanics": [
         "OVERLOAD"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "DRG_216",
@@ -6486,7 +6766,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -6537,7 +6817,9 @@
       ],
       "mechanics": [
         "OVERLOAD"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_217",
@@ -6609,7 +6891,11 @@
       ],
       "relatedDbfIds": [
         56375
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_217t",
@@ -6617,7 +6903,7 @@
       "name": "늑대 정령",
       "type": "MINION",
       "cardClass": "SHAMAN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "<b>도발</b>",
@@ -6631,7 +6917,7 @@
         "UNDEAD",
         "BEAST"
       ],
-      "race": "UNDEAD",
+      "race": "언데드, 야수",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -6697,7 +6983,10 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_218",
@@ -6782,7 +7071,11 @@
         57434,
         57435,
         57436
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_219",
@@ -6834,7 +7127,10 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "DRG_223",
@@ -6856,7 +7152,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -6913,7 +7209,9 @@
       "mechanics": [
         "OVERLOAD",
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_224",
@@ -6935,7 +7233,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -7001,7 +7299,9 @@
       "relatedDbfIds": [
         55025,
         55026
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_224t",
@@ -7009,7 +7309,7 @@
       "name": "폭풍 알",
       "type": "MINION",
       "cardClass": "SHAMAN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "내 턴이 시작될 때,\n<b>속공</b> 능력이 있는 4/4\n폭풍 비룡으로\n변신합니다.",
@@ -7060,7 +7360,12 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "RUSH"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_224t2",
@@ -7068,7 +7373,7 @@
       "name": "폭풍 비룡",
       "type": "MINION",
       "cardClass": "SHAMAN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "<b>속공</b>",
@@ -7081,7 +7386,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -7132,7 +7437,10 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_225",
@@ -7154,7 +7462,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -7218,7 +7526,9 @@
       ],
       "relatedDbfIds": [
         57055
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_225t",
@@ -7226,7 +7536,7 @@
       "name": "초소형 비행체",
       "type": "MINION",
       "cardClass": "PALADIN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -7239,7 +7549,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -7272,7 +7582,10 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_226",
@@ -7294,7 +7607,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -7350,7 +7663,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_229",
@@ -7372,7 +7687,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -7440,7 +7755,9 @@
         "BATTLECRY",
         "DISCOVER",
         "LIFESTEAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_231",
@@ -7462,7 +7779,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "DRAENEI",
+      "race": "드레나이",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -7513,7 +7830,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_232",
@@ -7535,7 +7854,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "DRAENEI",
+      "race": "드레나이",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -7595,7 +7914,9 @@
       "relatedDbfIds": [
         57936,
         847
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_232t",
@@ -7678,7 +7999,12 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_233",
@@ -7732,7 +8058,11 @@
       ],
       "mechanics": [
         "DIVINE_SHIELD"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_235",
@@ -7754,7 +8084,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -7810,7 +8140,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_238ht",
@@ -7818,7 +8150,7 @@
       "name": "용의 발톱",
       "type": "WEAPON",
       "cardClass": "INVALID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 5,
       "text": "",
@@ -7850,7 +8182,12 @@
           "name": "카드 유형",
           "value": 7
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_238p",
@@ -7858,7 +8195,7 @@
       "name": "갈라크론드의 힘",
       "type": "HERO_POWER",
       "cardClass": "WARRIOR",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "이번 턴에 내 영웅이 공격력을 +3 얻습니다.",
@@ -7885,7 +8222,12 @@
           "name": "카드 유형",
           "value": 10
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_238p2",
@@ -7893,7 +8235,7 @@
       "name": "갈라크론드의 간교",
       "type": "HERO_POWER",
       "cardClass": "ROGUE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "무작위 <b>졸개</b>를\n내 손으로 가져옵니다.",
@@ -7920,7 +8262,12 @@
           "name": "카드 유형",
           "value": 10
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_238p3",
@@ -7928,7 +8275,7 @@
       "name": "갈라크론드의 악의",
       "type": "HERO_POWER",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "1/1 임프를\n둘 소환합니다.",
@@ -7955,7 +8302,12 @@
           "name": "카드 유형",
           "value": 10
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_238p4",
@@ -7963,7 +8315,7 @@
       "name": "갈라크론드의 분노",
       "type": "HERO_POWER",
       "cardClass": "SHAMAN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "<b>속공</b> 능력이 있는\n2/1 정령을 소환합니다.",
@@ -7998,7 +8350,12 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_238p5",
@@ -8006,7 +8363,7 @@
       "name": "갈라크론드의 기지",
       "type": "HERO_POWER",
       "cardClass": "PRIEST",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "무작위 사제 하수인을 내 손으로 가져옵니다.",
@@ -8033,7 +8390,12 @@
           "name": "카드 유형",
           "value": 10
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_238t12t2",
@@ -8041,7 +8403,7 @@
       "name": "용족의 임프",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -8054,7 +8416,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -8092,7 +8454,10 @@
           "name": "임프",
           "value": 1
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_238t14t3",
@@ -8100,7 +8465,7 @@
       "name": "세찬바람 정령",
       "type": "MINION",
       "cardClass": "SHAMAN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "<b>속공</b>",
@@ -8113,7 +8478,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -8154,7 +8519,10 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_239",
@@ -8215,7 +8583,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_242",
@@ -8237,7 +8609,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "DRAENEI",
+      "race": "드레나이",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -8344,7 +8716,9 @@
         55366,
         57414,
         57415
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_246",
@@ -8407,7 +8781,11 @@
         57417,
         57418,
         55819
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_247",
@@ -8477,7 +8855,11 @@
         57421,
         57420,
         55819
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_248",
@@ -8558,7 +8940,10 @@
         57434,
         57435,
         57436
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "DRG_249",
@@ -8627,7 +9012,10 @@
         57414,
         57415,
         55819
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "DRG_250",
@@ -8691,7 +9079,11 @@
         57331,
         55819,
         55366
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_251",
@@ -8763,7 +9155,11 @@
       ],
       "relatedDbfIds": [
         55821
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_251t",
@@ -8771,7 +9167,7 @@
       "name": "그리핀",
       "type": "MINION",
       "cardClass": "HUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "<b>속공</b>",
@@ -8784,7 +9180,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -8825,7 +9221,10 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_252",
@@ -8847,7 +9246,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -8904,7 +9303,9 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "SECRET"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_253",
@@ -8960,7 +9361,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_254",
@@ -8982,7 +9387,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -9060,7 +9465,9 @@
         "BATTLECRY",
         "POISONOUS",
         "DISCOVER"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_255",
@@ -9130,7 +9537,11 @@
       "relatedDbfIds": [
         658,
         41127
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_256",
@@ -9152,7 +9563,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -9213,7 +9624,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_257",
@@ -9282,7 +9695,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_258",
@@ -9359,7 +9776,11 @@
       ],
       "relatedDbfIds": [
         57723
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_258t",
@@ -9367,7 +9788,7 @@
       "name": "불굴의 용사",
       "type": "MINION",
       "cardClass": "PALADIN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "<b>도발</b>",
@@ -9417,7 +9838,12 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_270",
@@ -9439,7 +9865,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -9518,7 +9944,9 @@
         56173,
         56170,
         56373
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_270t1",
@@ -9526,7 +9954,7 @@
       "name": "말리고스의 지능",
       "type": "SPELL",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "카드를 4장 뽑습니다.",
@@ -9564,7 +9992,11 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_270t11",
@@ -9572,7 +10004,7 @@
       "name": "말리고스의 화살",
       "type": "SPELL",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "모든 적에게 $6의 피해를 무작위로 나누어 입힙니다.",
@@ -9615,7 +10047,11 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_270t2",
@@ -9623,7 +10059,7 @@
       "name": "말리고스의 고서",
       "type": "SPELL",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "무작위 마법사 주문\n셋을 내 손으로\n가져옵니다.",
@@ -9661,7 +10097,11 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_270t4",
@@ -9669,7 +10109,7 @@
       "name": "말리고스의 폭발",
       "type": "SPELL",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "모든 적 하수인에게\n피해를 $2 줍니다.",
@@ -9707,7 +10147,11 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_270t5",
@@ -9715,7 +10159,7 @@
       "name": "말리고스의 회오리",
       "type": "SPELL",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "모든 적 하수인을 <b>빙결</b>\n상태로 만듭니다.",
@@ -9753,7 +10197,11 @@
           "name": "주문 속성",
           "value": 3
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_270t6",
@@ -9761,7 +10209,7 @@
       "name": "말리고스의 변이",
       "type": "SPELL",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "하수인을 1/1 양으로 변신시킵니다.",
@@ -9799,7 +10247,11 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_270t6t",
@@ -9807,7 +10259,7 @@
       "name": "말리고스의 양",
       "type": "MINION",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -9820,7 +10272,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -9883,7 +10335,10 @@
           "name": "효과 지속 시각 효과",
           "value": 0
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_270t7",
@@ -9891,7 +10346,7 @@
       "name": "말리고스의 불기둥",
       "type": "SPELL",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 7,
       "text": "모든 적 하수인에게\n피해를 $8 줍니다.",
@@ -9929,7 +10384,11 @@
           "name": "주문 속성",
           "value": 2
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_270t8",
@@ -9937,7 +10396,7 @@
       "name": "말리고스의 얼음 화살",
       "type": "SPELL",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "캐릭터에게\n피해를 $3 주고\n<b>빙결</b> 상태로 만듭니다.",
@@ -9970,7 +10429,11 @@
           "name": "주문 속성",
           "value": 3
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_270t9",
@@ -9978,7 +10441,7 @@
       "name": "말리고스의 화염구",
       "type": "SPELL",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "피해를 $8 줍니다.",
@@ -10016,7 +10479,11 @@
           "name": "주문 속성",
           "value": 2
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_300",
@@ -10038,7 +10505,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -10109,7 +10576,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_301",
@@ -10190,7 +10659,11 @@
         53163,
         55378,
         60588
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_302",
@@ -10270,7 +10743,10 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "DRG_303",
@@ -10361,7 +10837,11 @@
         57417,
         57418,
         55819
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_304",
@@ -10383,7 +10863,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -10434,7 +10914,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_306",
@@ -10518,7 +11000,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_307",
@@ -10564,7 +11050,11 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_308",
@@ -10639,7 +11129,11 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_309",
@@ -10661,7 +11155,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -10737,7 +11231,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_310",
@@ -10759,7 +11255,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -10815,7 +11311,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_311",
@@ -10886,7 +11384,10 @@
         55041,
         55040,
         56371
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "DRG_311a",
@@ -10894,7 +11395,7 @@
       "name": "자라나라",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "2/2 나무정령을 소환합니다.",
@@ -10930,7 +11431,11 @@
       ],
       "relatedDbfIds": [
         56371
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_311b",
@@ -10938,7 +11443,7 @@
       "name": "보수 공사",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "하수인에게 생명력 +2와 <b>도발</b>을 부여합니다.",
@@ -10979,7 +11484,11 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_311t",
@@ -10987,7 +11496,7 @@
       "name": "나무정령",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -11059,7 +11568,12 @@
           "name": "게임 태그 2831",
           "value": 1
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_312",
@@ -11131,7 +11645,11 @@
       ],
       "relatedDbfIds": [
         56371
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_313",
@@ -11153,7 +11671,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -11221,7 +11739,9 @@
         "TAUNT",
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_314",
@@ -11281,7 +11801,10 @@
       ],
       "relatedDbfIds": [
         56371
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "DRG_315",
@@ -11328,7 +11851,10 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "DRG_317",
@@ -11400,7 +11926,11 @@
       ],
       "relatedDbfIds": [
         1050
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_318",
@@ -11467,7 +11997,10 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "DRG_319",
@@ -11550,7 +12083,11 @@
       ],
       "relatedDbfIds": [
         56371
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_320",
@@ -11572,7 +12109,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -11641,7 +12178,9 @@
       ],
       "relatedDbfIds": [
         55778
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_320t",
@@ -11649,7 +12188,7 @@
       "name": "꿈 차원문",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 9,
       "text": "<b>뽑을 때 시전</b>\n무작위 용족을 소환합니다.",
@@ -11690,7 +12229,11 @@
       ],
       "mechanics": [
         "CASTS_WHEN_DRAWN"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_321",
@@ -11747,7 +12290,10 @@
           "name": "주문 속성",
           "value": 2
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "DRG_322",
@@ -11769,7 +12315,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "DRAENEI",
+      "race": "드레나이",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -11830,7 +12376,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_323",
@@ -11899,7 +12447,11 @@
       ],
       "relatedDbfIds": [
         55282
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_323t",
@@ -11907,7 +12459,7 @@
       "name": "용족 사절",
       "type": "MINION",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 6,
       "text": "",
@@ -11920,7 +12472,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -11953,7 +12505,10 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_324",
@@ -12022,7 +12577,11 @@
       ],
       "relatedDbfIds": [
         395
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_401",
@@ -12086,7 +12645,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_402",
@@ -12108,7 +12671,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -12164,7 +12727,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_403",
@@ -12228,7 +12793,11 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_500",
@@ -12280,7 +12849,10 @@
           "name": "주문 속성",
           "value": 2
         }
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "classes": []
     },
     {
       "id": "DRG_600",
@@ -12391,7 +12963,11 @@
         57331,
         55819,
         55366
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_600t2",
@@ -12477,7 +13053,12 @@
       ],
       "relatedDbfIds": [
         55807
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_600t3",
@@ -12553,7 +13134,12 @@
       ],
       "relatedDbfIds": [
         55807
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_610",
@@ -12670,7 +13256,11 @@
         53163,
         55378,
         55819
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_610t2",
@@ -12756,7 +13346,12 @@
       ],
       "relatedDbfIds": [
         55806
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_610t3",
@@ -12832,7 +13427,12 @@
       ],
       "relatedDbfIds": [
         55806
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_620",
@@ -12952,7 +13552,11 @@
         57435,
         57436,
         55819
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_620t2",
@@ -13044,7 +13648,12 @@
       ],
       "relatedDbfIds": [
         55808
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_620t3",
@@ -13126,7 +13735,12 @@
       ],
       "relatedDbfIds": [
         55808
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_620t4",
@@ -13134,7 +13748,7 @@
       "name": "우르릉거리는 폭풍",
       "type": "MINION",
       "cardClass": "SHAMAN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "<b>속공</b>",
@@ -13147,7 +13761,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -13188,7 +13802,10 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_620t5",
@@ -13196,7 +13813,7 @@
       "name": "살아있는 폭풍",
       "type": "MINION",
       "cardClass": "SHAMAN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "<b>속공</b>",
@@ -13209,7 +13826,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -13250,7 +13867,10 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_620t6",
@@ -13258,7 +13878,7 @@
       "name": "거센 폭풍",
       "type": "MINION",
       "cardClass": "SHAMAN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 8,
       "text": "<b>속공</b>",
@@ -13271,7 +13891,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
       "set": "DRAGONS",
       "nativeTags": [
         {
@@ -13312,7 +13932,10 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_650",
@@ -13422,7 +14045,11 @@
         57414,
         57415,
         55819
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_650t2",
@@ -13508,7 +14135,12 @@
       ],
       "relatedDbfIds": [
         55805
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_650t3",
@@ -13584,7 +14216,12 @@
       ],
       "relatedDbfIds": [
         55805
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_660",
@@ -13694,7 +14331,11 @@
         57417,
         57418,
         55819
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": []
     },
     {
       "id": "DRG_660t2",
@@ -13780,7 +14421,12 @@
       ],
       "relatedDbfIds": [
         55810
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     },
     {
       "id": "DRG_660t3",
@@ -13856,7 +14502,12 @@
       ],
       "relatedDbfIds": [
         55810
-      ]
+      ],
+      "race": "",
+      "races": [],
+      "spellSchool": "",
+      "classes": [],
+      "flavor": ""
     }
   ]
 }
