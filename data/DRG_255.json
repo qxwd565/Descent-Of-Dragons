@@ -6,7 +6,7 @@
     "id": "DRG_255",
     "dbfId": 55301,
     "name": "메스꺼운 지원군",
-    "text": "<b>부가 퀘스트:</b> 내 영웅 능력을 3회 사용해야 합니다.\n<b>보상:</b> 2/1 오염된 노움을 셋 소환합니다.",
+    "text": "<b>부가 퀘스트:</b> 내 영웅 능력을 3회 사용해야 합니다.<br></br><b>보상:</b> 2/1 오염된 노움을 셋 소환합니다.",
     "type": "SPELL",
     "cardClass": "HUNTER",
     "classes": [],
@@ -73,7 +73,7 @@
         "value": 658
       }
     ],
-    "nativeRawText": "<b>부가 퀘스트:</b> 내 영웅 능력을 3회 사용해야 합니다.\n<b>보상:</b> 2/1 오염된 노움을 셋 소환합니다.",
+    "nativeRawText": "<b>부가 퀘스트:</b> 내 영웅 능력을 3회 사용해야 합니다.<br></br><b>보상:</b> 2/1 오염된 노움을 셋 소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

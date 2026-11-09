@@ -6,7 +6,7 @@
     "id": "DRG_254",
     "dbfId": 55294,
     "name": "태고의 탐험가",
-    "text": "<b>독성</b>, <b>전투의 함성</b>:\n용족을 <b>발견</b>합니다.",
+    "text": "<b>독성</b>, <b>전투의 함성</b>:<br></br>용족을 <b>발견</b>합니다.",
     "type": "MINION",
     "cardClass": "HUNTER",
     "classes": [],
@@ -100,7 +100,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>독성</b>, <b>전투의 함성</b>:&\n용족을 <b>발견</b>합니다.",
+    "nativeRawText": "<b>독성</b>, <b>전투의 함성</b>:&<br></br>용족을 <b>발견</b>합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

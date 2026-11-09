@@ -6,7 +6,7 @@
     "id": "DRG_099t4",
     "dbfId": 57694,
     "name": "섬멸",
-    "text": "다른 <b>모든</b> 하수인에게\n피해를 5 줍니다.",
+    "text": "다른 <b>모든</b> 하수인에게<br></br>피해를 5 줍니다.",
     "type": "SPELL",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -53,7 +53,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]다른 <b>모든</b> 하수인에게\n피해를 5 줍니다.",
+    "nativeRawText": "[x]다른 <b>모든</b> 하수인에게<br></br>피해를 5 줍니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

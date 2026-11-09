@@ -6,7 +6,7 @@
     "id": "DRG_322",
     "dbfId": 55280,
     "name": "용술사",
-    "text": "<b>전투의 함성:</b> 내 손에 용족이\n있으면, 이번 턴에 내가\n시전하는 다음 주문의\n비용이 (0)이 됩니다.",
+    "text": "<b>전투의 함성:</b> 내 손에 용족이<br></br>있으면, 이번 턴에 내가<br></br>시전하는 다음 주문의<br></br>비용이 (0)이 됩니다.",
     "type": "MINION",
     "cardClass": "MAGE",
     "classes": [],
@@ -85,7 +85,7 @@
         "value": 0
       }
     ],
-    "nativeRawText": "[x]<b>전투의 함성:</b> 내 손에 용족이\n있으면, 이번 턴에 내가\n시전하는 다음 주문의\n비용이 (0)이 됩니다.",
+    "nativeRawText": "[x]<b>전투의 함성:</b> 내 손에 용족이<br></br>있으면, 이번 턴에 내가<br></br>시전하는 다음 주문의<br></br>비용이 (0)이 됩니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

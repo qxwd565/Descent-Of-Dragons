@@ -6,7 +6,7 @@
     "id": "DRG_249",
     "dbfId": 55250,
     "name": "깨어나라!",
-    "text": "갈라크론드의 강림을 <b>기원</b>합니다. <b>모든</b> 하수인에게\n피해를 $1 줍니다.",
+    "text": "갈라크론드의 강림을 <b>기원</b>합니다. <b>모든</b> 하수인에게<br></br>피해를 $1 줍니다.",
     "type": "SPELL",
     "cardClass": "WARRIOR",
     "classes": [],
@@ -68,7 +68,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "갈라크론드의 강림을 <b>기원</b>합니다. <b>모든</b> 하수인에게\n피해를 $1 줍니다.",
+    "nativeRawText": "갈라크론드의 강림을 <b>기원</b>합니다. <b>모든</b> 하수인에게<br></br>피해를 $1 줍니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

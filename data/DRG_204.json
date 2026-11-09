@@ -6,7 +6,7 @@
     "id": "DRG_204",
     "dbfId": 54891,
     "name": "검은 하늘",
-    "text": "무작위 하수인에게\n피해를 $1 줍니다.\n내 손에 있는 카드의\n수만큼 반복합니다.",
+    "text": "무작위 하수인에게<br></br>피해를 $1 줍니다.<br></br>내 손에 있는 카드의<br></br>수만큼 반복합니다.",
     "type": "SPELL",
     "cardClass": "WARLOCK",
     "classes": [],
@@ -63,7 +63,7 @@
         "value": 7
       }
     ],
-    "nativeRawText": "[x]무작위 하수인에게\n피해를 $1 줍니다.\n내 손에 있는 카드의\n수만큼 반복합니다.",
+    "nativeRawText": "[x]무작위 하수인에게<br></br>피해를 $1 줍니다.<br></br>내 손에 있는 카드의<br></br>수만큼 반복합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

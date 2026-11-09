@@ -6,7 +6,7 @@
     "id": "DRG_208",
     "dbfId": 54896,
     "name": "발드리스 펠고지",
-    "text": "<b>전투의 함성:</b>\n내 손의 최대 카드 수를\n12로 증가시킵니다.\n카드를 4장 뽑습니다.",
+    "text": "<b>전투의 함성:</b><br></br>내 손의 최대 카드 수를<br></br>12로 증가시킵니다.<br></br>카드를 4장 뽑습니다.",
     "type": "MINION",
     "cardClass": "WARLOCK",
     "classes": [],
@@ -73,7 +73,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]<b>전투의 함성:</b>\n내 손의 최대 카드 수를\n12로 증가시킵니다.\n카드를 4장 뽑습니다.",
+    "nativeRawText": "[x]<b>전투의 함성:</b><br></br>내 손의 최대 카드 수를<br></br>12로 증가시킵니다.<br></br>카드를 4장 뽑습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

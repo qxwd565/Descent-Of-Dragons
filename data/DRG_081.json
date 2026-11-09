@@ -6,7 +6,7 @@
     "id": "DRG_081",
     "dbfId": 55431,
     "name": "비늘기수",
-    "text": "<b>전투의 함성:</b>\n내 손에 용족이 있으면, 피해를 2 줍니다.",
+    "text": "<b>전투의 함성:</b><br></br>내 손에 용족이 있으면, 피해를 2 줍니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -68,7 +68,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>전투의 함성:</b>\n내 손에 용족이 있으면, 피해를 2 줍니다.",
+    "nativeRawText": "<b>전투의 함성:</b><br></br>내 손에 용족이 있으면, 피해를 2 줍니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

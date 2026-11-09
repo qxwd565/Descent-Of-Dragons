@@ -6,7 +6,7 @@
     "id": "DRG_660",
     "dbfId": 57416,
     "name": "형언할 수 없는 갈라크론드",
-    "text": "<b>전투의 함성:</b> 무작위 적 하수인을 처치합니다.\n<i>(두 번 <b>기원</b>하면 강화됩니다.)</i>",
+    "text": "<b>전투의 함성:</b> 무작위 적 하수인을 처치합니다.<br></br><i>(두 번 <b>기원</b>하면 강화됩니다.)</i>",
     "type": "HERO",
     "cardClass": "PRIEST",
     "classes": [],
@@ -108,7 +108,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>전투의 함성:</b> 무작위 적 하수인을 처치합니다.\n[x]<i>(@)</i>",
+    "nativeRawText": "<b>전투의 함성:</b> 무작위 적 하수인을 처치합니다.<br></br>[x]<i>(@)</i>",
     "nativeTextBuilder": 8,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

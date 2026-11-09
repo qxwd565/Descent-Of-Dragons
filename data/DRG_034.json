@@ -6,7 +6,7 @@
     "id": "DRG_034",
     "dbfId": 55102,
     "name": "밀항자",
-    "text": "<b>전투의 함성:</b> 게임이 시작됐을 때 내 덱에 없던 카드들이\n내 덱에 있으면, 그 카드들 중 2장을 뽑습니다.",
+    "text": "<b>전투의 함성:</b> 게임이 시작됐을 때 내 덱에 없던 카드들이<br></br>내 덱에 있으면, 그 카드들 중 2장을 뽑습니다.",
     "type": "MINION",
     "cardClass": "ROGUE",
     "classes": [],
@@ -68,7 +68,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>전투의 함성:</b> 게임이 시작됐을 때 내 덱에 없던 카드들이\n내 덱에 있으면, 그 카드들 중 2장을 뽑습니다.",
+    "nativeRawText": "<b>전투의 함성:</b> 게임이 시작됐을 때 내 덱에 없던 카드들이<br></br>내 덱에 있으면, 그 카드들 중 2장을 뽑습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

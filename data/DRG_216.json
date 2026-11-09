@@ -6,7 +6,7 @@
     "id": "DRG_216",
     "dbfId": 54966,
     "name": "요동치는 폭풍",
-    "text": "내 마나 수정이\n<b>과부하</b>된 동안 공격력을\n+1 얻습니다.",
+    "text": "내 마나 수정이<br></br><b>과부하</b>된 동안 공격력을<br></br>+1 얻습니다.",
     "type": "MINION",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -75,7 +75,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]내 마나 수정이\n<b>과부하</b>된 동안 공격력을\n+1 얻습니다.",
+    "nativeRawText": "[x]내 마나 수정이<br></br><b>과부하</b>된 동안 공격력을<br></br>+1 얻습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

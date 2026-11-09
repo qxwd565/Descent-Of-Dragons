@@ -6,7 +6,7 @@
     "id": "DRG_224t",
     "dbfId": 55025,
     "name": "폭풍 알",
-    "text": "내 턴이 시작될 때,\n<b>속공</b> 능력이 있는 4/4\n폭풍 비룡으로\n변신합니다.",
+    "text": "내 턴이 시작될 때,<br></br><b>속공</b> 능력이 있는 4/4<br></br>폭풍 비룡으로<br></br>변신합니다.",
     "type": "MINION",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -63,7 +63,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]내 턴이 시작될 때,\n<b>속공</b> 능력이 있는 4/4\n폭풍 비룡으로\n변신합니다.",
+    "nativeRawText": "[x]내 턴이 시작될 때,<br></br><b>속공</b> 능력이 있는 4/4<br></br>폭풍 비룡으로<br></br>변신합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

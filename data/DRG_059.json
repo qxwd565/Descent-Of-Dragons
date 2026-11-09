@@ -6,7 +6,7 @@
     "id": "DRG_059",
     "dbfId": 55404,
     "name": "고블라이더 기술자",
-    "text": "<b>전투의 함성:</b>\n내 전장에 기계가 있으면, +1/+1과 <b>속공</b>을 얻습니다.",
+    "text": "<b>전투의 함성:</b><br></br>내 전장에 기계가 있으면, +1/+1과 <b>속공</b>을 얻습니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -73,7 +73,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>전투의 함성:</b>\n내 전장에 기계가 있으면, +1/+1과 <b>속공</b>을 얻습니다.",
+    "nativeRawText": "<b>전투의 함성:</b><br></br>내 전장에 기계가 있으면, +1/+1과 <b>속공</b>을 얻습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

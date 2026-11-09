@@ -6,7 +6,7 @@
     "id": "DRG_257",
     "dbfId": 55304,
     "name": "프리즈 킨들루스트",
-    "text": "<b>전투의 함성:</b>\n내 덱에 있는 용족들의\n비용이 (2) 감소합니다.",
+    "text": "<b>전투의 함성:</b><br></br>내 덱에 있는 용족들의<br></br>비용이 (2) 감소합니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -73,7 +73,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]<b>전투의 함성:</b>\n내 덱에 있는 용족들의\n비용이 (2) 감소합니다.",
+    "nativeRawText": "[x]<b>전투의 함성:</b><br></br>내 덱에 있는 용족들의<br></br>비용이 (2) 감소합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

@@ -6,7 +6,7 @@
     "id": "DRG_238p4",
     "dbfId": 55808,
     "name": "갈라크론드의 분노",
-    "text": "<b>속공</b> 능력이 있는\n2/1 정령을 소환합니다.",
+    "text": "<b>속공</b> 능력이 있는<br></br>2/1 정령을 소환합니다.",
     "type": "HERO_POWER",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -48,7 +48,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>속공</b> 능력이 있는\n2/1 정령을 소환합니다.",
+    "nativeRawText": "<b>속공</b> 능력이 있는<br></br>2/1 정령을 소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

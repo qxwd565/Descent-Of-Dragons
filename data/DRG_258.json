@@ -6,7 +6,7 @@
     "id": "DRG_258",
     "dbfId": 55342,
     "name": "성역",
-    "text": "<b>부가 퀘스트:</b> 한 턴 동안\n피해를 받지 않아야 합니다.\n<b>보상:</b> <b>도발</b> 능력이 있는\n3/6 하수인을 소환합니다.",
+    "text": "<b>부가 퀘스트:</b> 한 턴 동안<br></br>피해를 받지 않아야 합니다.<br></br><b>보상:</b> <b>도발</b> 능력이 있는<br></br>3/6 하수인을 소환합니다.",
     "type": "SPELL",
     "cardClass": "PALADIN",
     "classes": [],
@@ -78,7 +78,7 @@
         "value": 57723
       }
     ],
-    "nativeRawText": "[x]<b>부가 퀘스트:</b> 한 턴 동안\n피해를 받지 않아야 합니다.\n<b>보상:</b> <b>도발</b> 능력이 있는\n3/6 하수인을 소환합니다.",
+    "nativeRawText": "[x]<b>부가 퀘스트:</b> 한 턴 동안<br></br>피해를 받지 않아야 합니다.<br></br><b>보상:</b> <b>도발</b> 능력이 있는<br></br>3/6 하수인을 소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

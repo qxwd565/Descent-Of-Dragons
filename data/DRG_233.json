@@ -6,7 +6,7 @@
     "id": "DRG_233",
     "dbfId": 55069,
     "name": "모래 숨결",
-    "text": "하수인에게\n+1/+2를 부여합니다.\n내 손에 용족이 있으면,\n<b>천상의 보호막</b>도 부여합니다.",
+    "text": "하수인에게<br></br>+1/+2를 부여합니다.<br></br>내 손에 용족이 있으면,<br></br><b>천상의 보호막</b>도 부여합니다.",
     "type": "SPELL",
     "cardClass": "PALADIN",
     "classes": [],
@@ -58,7 +58,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "하수인에게\n+1/+2를 부여합니다.\n내 손에 용족이 있으면,\n<b>천상의 보호막</b>도 부여합니다.",
+    "nativeRawText": "하수인에게<br></br>+1/+2를 부여합니다.<br></br>내 손에 용족이 있으면,<br></br><b>천상의 보호막</b>도 부여합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

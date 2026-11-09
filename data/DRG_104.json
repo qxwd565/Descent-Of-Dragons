@@ -6,7 +6,7 @@
     "id": "DRG_104",
     "dbfId": 54904,
     "name": "첸바라",
-    "text": "한 턴에 내 주문을\n3번 시전한 후에, 5/5\n정령을 소환합니다.",
+    "text": "한 턴에 내 주문을<br></br>3번 시전한 후에, 5/5<br></br>정령을 소환합니다.",
     "type": "MINION",
     "cardClass": "MAGE",
     "classes": [],
@@ -80,7 +80,7 @@
         "value": 55314
       }
     ],
-    "nativeRawText": "[x]한 턴에 내 주문을\n3번 시전한 후에, 5/5\n정령을 소환합니다.",
+    "nativeRawText": "[x]한 턴에 내 주문을<br></br>3번 시전한 후에, 5/5<br></br>정령을 소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

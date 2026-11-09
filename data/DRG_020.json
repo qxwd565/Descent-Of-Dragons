@@ -6,7 +6,7 @@
     "id": "DRG_020",
     "dbfId": 55001,
     "name": "잔.악.무.도. 병참장교",
-    "text": "<b>전투의 함성:</b> 무작위 <b>졸개</b>를\n내 손으로 가져옵니다.\n방어도를 +3 얻습니다.",
+    "text": "<b>전투의 함성:</b> 무작위 <b>졸개</b>를<br></br>내 손으로 가져옵니다.<br></br>방어도를 +3 얻습니다.",
     "type": "MINION",
     "cardClass": "WARRIOR",
     "classes": [],
@@ -73,7 +73,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]<b>전투의 함성:</b> 무작위 <b>졸개</b>를\n내 손으로 가져옵니다.\n방어도를 +3 얻습니다.",
+    "nativeRawText": "[x]<b>전투의 함성:</b> 무작위 <b>졸개</b>를<br></br>내 손으로 가져옵니다.<br></br>방어도를 +3 얻습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

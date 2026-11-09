@@ -6,7 +6,7 @@
     "id": "DRG_238p2",
     "dbfId": 55806,
     "name": "갈라크론드의 간교",
-    "text": "무작위 <b>졸개</b>를\n내 손으로 가져옵니다.",
+    "text": "무작위 <b>졸개</b>를<br></br>내 손으로 가져옵니다.",
     "type": "HERO_POWER",
     "cardClass": "ROGUE",
     "classes": [],
@@ -43,7 +43,7 @@
         "value": 10
       }
     ],
-    "nativeRawText": "무작위 <b>졸개</b>를\n내 손으로 가져옵니다.",
+    "nativeRawText": "무작위 <b>졸개</b>를<br></br>내 손으로 가져옵니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

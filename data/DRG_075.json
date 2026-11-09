@@ -6,7 +6,7 @@
     "id": "DRG_075",
     "dbfId": 55425,
     "name": "푸른비늘혈족 주문술사",
-    "text": "<b>전투의 함성:</b> 내 직업의\n비용이 1인 주문 둘을\n내 손으로 가져옵니다.",
+    "text": "<b>전투의 함성:</b> 내 직업의<br></br>비용이 1인 주문 둘을<br></br>내 손으로 가져옵니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -75,7 +75,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]<b>전투의 함성:</b> 내 직업의\n비용이 1인 주문 둘을\n내 손으로 가져옵니다.",
+    "nativeRawText": "[x]<b>전투의 함성:</b> 내 직업의<br></br>비용이 1인 주문 둘을<br></br>내 손으로 가져옵니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

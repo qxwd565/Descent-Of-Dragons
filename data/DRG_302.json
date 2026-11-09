@@ -6,7 +6,7 @@
     "id": "DRG_302",
     "dbfId": 54873,
     "name": "룬 새기기",
-    "text": "하수인에게 \"<b>죽음의 메아리:</b>\n이 하수인을 둘 복사하여 소환함\"능력을 부여합니다.",
+    "text": "하수인에게 \"<b>죽음의 메아리:</b><br></br>이 하수인을 둘 복사하여 소환함\"능력을 부여합니다.",
     "type": "SPELL",
     "cardClass": "PRIEST",
     "classes": [],
@@ -83,7 +83,7 @@
         "value": 6
       }
     ],
-    "nativeRawText": "하수인에게 \"<b>죽음의_메아리:</b>\n이 하수인을 둘 복사하여 소환함\"능력을 부여합니다.",
+    "nativeRawText": "하수인에게 \"<b>죽음의_메아리:</b><br></br>이 하수인을 둘 복사하여 소환함\"능력을 부여합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

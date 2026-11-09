@@ -6,7 +6,7 @@
     "id": "DRG_096",
     "dbfId": 55643,
     "name": "독깨비",
-    "text": "이 하수인은 내 손에 있으면\n내 턴이 시작될 때마다 무작위\n<b>전설</b> 하수인으로 변신합니다.\n능력치는 5/5가 됩니다.",
+    "text": "이 하수인은 내 손에 있으면<br></br>내 턴이 시작될 때마다 무작위<br></br><b>전설</b> 하수인으로 변신합니다.<br></br>능력치는 5/5가 됩니다.",
     "type": "MINION",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -68,7 +68,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]이 하수인은 내 손에 있으면\n내 턴이 시작될 때마다 무작위\n<b>전설</b> 하수인으로 변신합니다.\n능력치는 5/5가 됩니다.",
+    "nativeRawText": "[x]이 하수인은 내 손에 있으면<br></br>내 턴이 시작될 때마다 무작위<br></br><b>전설</b> 하수인으로 변신합니다.<br></br>능력치는 5/5가 됩니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

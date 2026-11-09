@@ -6,7 +6,7 @@
     "id": "DRG_232",
     "dbfId": 55068,
     "name": "빛벼림 광전사",
-    "text": "<b>전투의 함성:</b> 내 덱에\n중립 카드가 없으면,\n4/2 용사의 진은검을\n장착합니다.",
+    "text": "<b>전투의 함성:</b> 내 덱에<br></br>중립 카드가 없으면,<br></br>4/2 용사의 진은검을<br></br>장착합니다.",
     "type": "MINION",
     "cardClass": "PALADIN",
     "classes": [],
@@ -80,7 +80,7 @@
         "value": 847
       }
     ],
-    "nativeRawText": "[x]<b>전투의 함성:</b> 내 덱에\n중립 카드가 없으면,\n4/2 용사의 진은검을\n장착합니다.",
+    "nativeRawText": "[x]<b>전투의 함성:</b> 내 덱에<br></br>중립 카드가 없으면,<br></br>4/2 용사의 진은검을<br></br>장착합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

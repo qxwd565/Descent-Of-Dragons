@@ -6,7 +6,7 @@
     "id": "DRG_109",
     "dbfId": 54909,
     "name": "마나 거인",
-    "text": "게임이 시작됐을 때\n내 덱에 없던 카드를\n낼 때마다 비용이\n(1)씩 감소합니다.",
+    "text": "게임이 시작됐을 때<br></br>내 덱에 없던 카드를<br></br>낼 때마다 비용이<br></br>(1)씩 감소합니다.",
     "type": "MINION",
     "cardClass": "MAGE",
     "classes": [],
@@ -75,7 +75,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]게임이 시작됐을 때\n내 덱에 없던 카드를\n낼 때마다 비용이\n(1)씩 감소합니다.",
+    "nativeRawText": "[x]게임이 시작됐을 때<br></br>내 덱에 없던 카드를<br></br>낼 때마다 비용이<br></br>(1)씩 감소합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

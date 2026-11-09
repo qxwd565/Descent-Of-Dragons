@@ -6,7 +6,7 @@
     "id": "DRG_207",
     "dbfId": 54894,
     "name": "심연불 소환사",
-    "text": "<b>전투의 함성:</b> <b>도발</b> 능력이\n있는 악마를 소환합니다.\n능력치는 내 손에 있는\n카드 수와 같습니다.",
+    "text": "<b>전투의 함성:</b> <b>도발</b> 능력이<br></br>있는 악마를 소환합니다.<br></br>능력치는 내 손에 있는<br></br>카드 수와 같습니다.",
     "type": "MINION",
     "cardClass": "WARLOCK",
     "classes": [],
@@ -78,7 +78,7 @@
         "value": 54895
       }
     ],
-    "nativeRawText": "[x]<b>전투의 함성:</b> <b>도발</b> 능력이\n있는 악마를 소환합니다.\n능력치는 내 손에 있는\n카드 수와 같습니다.",
+    "nativeRawText": "[x]<b>전투의 함성:</b> <b>도발</b> 능력이<br></br>있는 악마를 소환합니다.<br></br>능력치는 내 손에 있는<br></br>카드 수와 같습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

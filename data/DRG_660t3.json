@@ -6,7 +6,7 @@
     "id": "DRG_660t3",
     "dbfId": 57418,
     "name": "아제로스의 종말 갈라크론드",
-    "text": "<b>전투의 함성:</b>\n무작위 적 하수인 넷을\n처치합니다. 5/2 발톱을\n장착합니다.",
+    "text": "<b>전투의 함성:</b><br></br>무작위 적 하수인 넷을<br></br>처치합니다. 5/2 발톱을<br></br>장착합니다.",
     "type": "HERO",
     "cardClass": "PRIEST",
     "classes": [],
@@ -78,7 +78,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]<b>전투의 함성:</b>\n무작위 적 하수인 넷을\n처치합니다. 5/2 발톱을\n장착합니다.",
+    "nativeRawText": "[x]<b>전투의 함성:</b><br></br>무작위 적 하수인 넷을<br></br>처치합니다. 5/2 발톱을<br></br>장착합니다.",
     "nativeTextBuilder": 8,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

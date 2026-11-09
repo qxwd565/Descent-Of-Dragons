@@ -6,7 +6,7 @@
     "id": "DRG_314",
     "dbfId": 55036,
     "name": "공중 재배",
-    "text": "카드를 2장 뽑습니다.\n내 나무정령 하나당\n비용이 (2)씩 감소합니다.",
+    "text": "카드를 2장 뽑습니다.<br></br>내 나무정령 하나당<br></br>비용이 (2)씩 감소합니다.",
     "type": "SPELL",
     "cardClass": "DRUID",
     "classes": [],
@@ -63,7 +63,7 @@
         "value": 4
       }
     ],
-    "nativeRawText": "[x]카드를 2장 뽑습니다.\n내 나무정령 하나당\n비용이 (2)씩 감소합니다.",
+    "nativeRawText": "[x]카드를 2장 뽑습니다.<br></br>내 나무정령 하나당<br></br>비용이 (2)씩 감소합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

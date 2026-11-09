@@ -6,7 +6,7 @@
     "id": "DRG_095",
     "dbfId": 55640,
     "name": "베라누스",
-    "text": "<b>전투의 함성:</b> 모든\n적 하수인의 생명력을 1로 바꿉니다.",
+    "text": "<b>전투의 함성:</b> 모든<br></br>적 하수인의 생명력을 1로 바꿉니다.",
     "type": "MINION",
     "cardClass": "HUNTER",
     "classes": [],
@@ -80,7 +80,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>전투의 함성:</b> 모든\n적 하수인의 생명력을 1로 바꿉니다.",
+    "nativeRawText": "<b>전투의 함성:</b> 모든<br></br>적 하수인의 생명력을 1로 바꿉니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

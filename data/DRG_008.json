@@ -6,7 +6,7 @@
     "id": "DRG_008",
     "dbfId": 54924,
     "name": "정의로운 명분",
-    "text": "<b>부가 퀘스트:</b> 하수인을\n5회 소환해야 합니다.\n<b>보상:</b> 내 하수인들에게\n+1/+1을 부여합니다.",
+    "text": "<b>부가 퀘스트:</b> 하수인을<br></br>5회 소환해야 합니다.<br></br><b>보상:</b> 내 하수인들에게<br></br>+1/+1을 부여합니다.",
     "type": "SPELL",
     "cardClass": "PALADIN",
     "classes": [],
@@ -63,7 +63,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]<b>부가 퀘스트:</b> 하수인을\n5회 소환해야 합니다.\n<b>보상:</b> 내 하수인들에게\n+1/+1을 부여합니다.",
+    "nativeRawText": "[x]<b>부가 퀘스트:</b> 하수인을<br></br>5회 소환해야 합니다.<br></br><b>보상:</b> 내 하수인들에게<br></br>+1/+1을 부여합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

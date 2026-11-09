@@ -6,7 +6,7 @@
     "id": "DRG_225",
     "dbfId": 55047,
     "name": "하늘 발톱",
-    "text": "내 다른 기계들이 공격력을\n+1 얻습니다. <b>전투의 함성:</b>\n1/1 초소형 비행체를\n둘 소환합니다.",
+    "text": "내 다른 기계들이 공격력을<br></br>+1 얻습니다. <b>전투의 함성:</b><br></br>1/1 초소형 비행체를<br></br>둘 소환합니다.",
     "type": "MINION",
     "cardClass": "PALADIN",
     "classes": [],
@@ -85,7 +85,7 @@
         "value": 57055
       }
     ],
-    "nativeRawText": "[x]내 다른 기계들이 공격력을\n+1 얻습니다. <b>전투의 함성:</b>\n1/1 초소형 비행체를\n둘 소환합니다.",
+    "nativeRawText": "[x]내 다른 기계들이 공격력을<br></br>+1 얻습니다. <b>전투의 함성:</b><br></br>1/1 초소형 비행체를<br></br>둘 소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

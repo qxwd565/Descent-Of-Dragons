@@ -6,7 +6,7 @@
     "id": "DRG_312",
     "dbfId": 55038,
     "name": "묘목 폭격수",
-    "text": "<b>전투의 함성:</b>\n2/2 나무정령을 소환합니다.",
+    "text": "<b>전투의 함성:</b><br></br>2/2 나무정령을 소환합니다.",
     "type": "MINION",
     "cardClass": "DRUID",
     "classes": [],
@@ -73,7 +73,7 @@
         "value": 56371
       }
     ],
-    "nativeRawText": "<b>전투의 함성:</b>\n2/2 나무정령을 소환합니다.",
+    "nativeRawText": "<b>전투의 함성:</b><br></br>2/2 나무정령을 소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

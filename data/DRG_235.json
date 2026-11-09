@@ -6,7 +6,7 @@
     "id": "DRG_235",
     "dbfId": 55072,
     "name": "용기수 탈리사",
-    "text": "<b>죽음의 메아리:</b> 내 손에 있는\n무작위 용족에게 +3/+3과\n이 <b>죽음의 메아리</b> 능력을\n부여합니다.",
+    "text": "<b>죽음의 메아리:</b> 내 손에 있는<br></br>무작위 용족에게 +3/+3과<br></br>이 <b>죽음의 메아리</b> 능력을<br></br>부여합니다.",
     "type": "MINION",
     "cardClass": "PALADIN",
     "classes": [],
@@ -80,7 +80,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]<b>죽음의 메아리:</b> 내 손에 있는\n무작위 용족에게 +3/+3과\n이 <b>죽음의 메아리</b> 능력을\n부여합니다.",
+    "nativeRawText": "[x]<b>죽음의 메아리:</b> 내 손에 있는<br></br>무작위 용족에게 +3/+3과<br></br>이 <b>죽음의 메아리</b> 능력을<br></br>부여합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

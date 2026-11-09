@@ -6,7 +6,7 @@
     "id": "DRG_219",
     "dbfId": 54971,
     "name": "번개 숨결",
-    "text": "하수인에게 피해를 $4 줍니다.\n내 손에 용족이 있으면,\n양옆의 하수인들에게도\n피해를 줍니다.",
+    "text": "하수인에게 피해를 $4 줍니다.<br></br>내 손에 용족이 있으면,<br></br>양옆의 하수인들에게도<br></br>피해를 줍니다.",
     "type": "SPELL",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -58,7 +58,7 @@
         "value": 4
       }
     ],
-    "nativeRawText": "[x]하수인에게 피해를 $4 줍니다.\n내 손에 용족이 있으면,\n양옆의 하수인들에게도\n피해를 줍니다.",
+    "nativeRawText": "[x]하수인에게 피해를 $4 줍니다.<br></br>내 손에 용족이 있으면,<br></br>양옆의 하수인들에게도<br></br>피해를 줍니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

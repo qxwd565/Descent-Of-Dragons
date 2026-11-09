@@ -6,7 +6,7 @@
     "id": "DRG_072",
     "dbfId": 55422,
     "name": "하늘지느러미",
-    "text": "<b>전투의 함성:</b> 내 손에\n용족이 있으면, 무작위\n멀록을 2마리\n소환합니다.",
+    "text": "<b>전투의 함성:</b> 내 손에<br></br>용족이 있으면, 무작위<br></br>멀록을 2마리<br></br>소환합니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -81,7 +81,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]<b>전투의 함성:</b> 내 손에\n용족이 있으면, 무작위\n멀록을 2마리\n소환합니다.",
+    "nativeRawText": "[x]<b>전투의 함성:</b> 내 손에<br></br>용족이 있으면, 무작위<br></br>멀록을 2마리<br></br>소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

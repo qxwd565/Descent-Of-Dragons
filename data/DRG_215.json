@@ -6,7 +6,7 @@
     "id": "DRG_215",
     "dbfId": 54965,
     "name": "폭풍의 분노",
-    "text": "내 하수인들에게 +1/+1을 부여합니다.\n<b>과부하:</b> (1)",
+    "text": "내 하수인들에게 +1/+1을 부여합니다.<br></br><b>과부하:</b> (1)",
     "type": "SPELL",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -63,7 +63,7 @@
         "value": 4
       }
     ],
-    "nativeRawText": "내 하수인들에게 +1/+1을 부여합니다.\n<b>과부하:</b> (1)",
+    "nativeRawText": "내 하수인들에게 +1/+1을 부여합니다.<br></br><b>과부하:</b> (1)",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

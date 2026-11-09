@@ -6,7 +6,7 @@
     "id": "DRG_023",
     "dbfId": 55004,
     "name": "비행포격선",
-    "text": "내가 해적을 소환한 후에, 무작위 적에게\n피해를 2 줍니다. ",
+    "text": "내가 해적을 소환한 후에, 무작위 적에게<br></br>피해를 2 줍니다. ",
     "type": "MINION",
     "cardClass": "WARRIOR",
     "classes": [],
@@ -75,7 +75,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "내가 해적을 소환한 후에, 무작위 적에게\n피해를 2 줍니다. ",
+    "nativeRawText": "내가 해적을 소환한 후에, 무작위 적에게<br></br>피해를 2 줍니다. ",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

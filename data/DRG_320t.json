@@ -6,7 +6,7 @@
     "id": "DRG_320t",
     "dbfId": 55778,
     "name": "꿈 차원문",
-    "text": "<b>뽑을 때 시전</b>\n무작위 용족을 소환합니다.",
+    "text": "<b>뽑을 때 시전</b><br></br>무작위 용족을 소환합니다.",
     "type": "SPELL",
     "cardClass": "DRUID",
     "classes": [],
@@ -53,7 +53,7 @@
         "value": 4
       }
     ],
-    "nativeRawText": "<b>뽑을 때 시전</b>\n무작위 용족을 소환합니다.",
+    "nativeRawText": "<b>뽑을 때 시전</b><br></br>무작위 용족을 소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

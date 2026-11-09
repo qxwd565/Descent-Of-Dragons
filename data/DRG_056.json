@@ -6,7 +6,7 @@
     "id": "DRG_056",
     "dbfId": 55401,
     "name": "공수 부대원",
-    "text": "내가 해적을 낸 후에,\n이 하수인을 내 손에서\n소환합니다.",
+    "text": "내가 해적을 낸 후에,<br></br>이 하수인을 내 손에서<br></br>소환합니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -70,7 +70,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "내가 해적을 낸 후에,\n이 하수인을 내 손에서\n소환합니다.",
+    "nativeRawText": "내가 해적을 낸 후에,<br></br>이 하수인을 내 손에서<br></br>소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

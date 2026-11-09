@@ -6,7 +6,7 @@
     "id": "DRG_319",
     "dbfId": 55031,
     "name": "거목 고루",
-    "text": "<b>도발</b>, <b>전투의 함성:</b>\n이번 게임 동안\n내 나무정령들이 +1/+1을 얻습니다.",
+    "text": "<b>도발</b>, <b>전투의 함성:</b><br></br>이번 게임 동안<br></br>내 나무정령들이 +1/+1을 얻습니다.",
     "type": "MINION",
     "cardClass": "DRUID",
     "classes": [],
@@ -83,7 +83,7 @@
         "value": 56371
       }
     ],
-    "nativeRawText": "<b>도발</b>, <b>전투의 함성:</b>\n이번 게임 동안\n내 나무정령들이 +1/+1을 얻습니다.",
+    "nativeRawText": "<b>도발</b>, <b>전투의 함성:</b><br></br>이번 게임 동안<br></br>내 나무정령들이 +1/+1을 얻습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

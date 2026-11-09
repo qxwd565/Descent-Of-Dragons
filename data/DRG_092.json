@@ -6,7 +6,7 @@
     "id": "DRG_092",
     "dbfId": 55436,
     "name": "형상변환사",
-    "text": "내가 카드를 뽑을 때마다\n그 카드를 무작위\n<b>전설</b> 하수인으로\n변신시킵니다.",
+    "text": "내가 카드를 뽑을 때마다<br></br>그 카드를 무작위<br></br><b>전설</b> 하수인으로<br></br>변신시킵니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -68,7 +68,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]내가 카드를 뽑을 때마다\n그 카드를 무작위\n<b>전설</b> 하수인으로\n변신시킵니다.",
+    "nativeRawText": "[x]내가 카드를 뽑을 때마다<br></br>그 카드를 무작위<br></br><b>전설</b> 하수인으로<br></br>변신시킵니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

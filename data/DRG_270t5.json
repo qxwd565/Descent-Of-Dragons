@@ -6,7 +6,7 @@
     "id": "DRG_270t5",
     "dbfId": 56168,
     "name": "말리고스의 회오리",
-    "text": "모든 적 하수인을 <b>빙결</b>\n상태로 만듭니다.",
+    "text": "모든 적 하수인을 <b>빙결</b><br></br>상태로 만듭니다.",
     "type": "SPELL",
     "cardClass": "MAGE",
     "classes": [],
@@ -53,7 +53,7 @@
         "value": 3
       }
     ],
-    "nativeRawText": "[x]모든 적 하수인을 <b>빙결</b>\n상태로 만듭니다.",
+    "nativeRawText": "[x]모든 적 하수인을 <b>빙결</b><br></br>상태로 만듭니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

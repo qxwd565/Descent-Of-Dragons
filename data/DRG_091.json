@@ -6,7 +6,7 @@
     "id": "DRG_091",
     "dbfId": 55470,
     "name": "슈마",
-    "text": "내 턴이 끝날 때,\n내 전장을 1/1 촉수로 가득 채웁니다.",
+    "text": "내 턴이 끝날 때,<br></br>내 전장을 1/1 촉수로 가득 채웁니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -78,7 +78,7 @@
         "value": 55471
       }
     ],
-    "nativeRawText": "내 턴이 끝날 때,\n내 전장을 1/1 촉수로 가득 채웁니다.",
+    "nativeRawText": "내 턴이 끝날 때,<br></br>내 전장을 1/1 촉수로 가득 채웁니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

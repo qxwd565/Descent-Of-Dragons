@@ -6,7 +6,7 @@
     "id": "DRG_089",
     "dbfId": 55441,
     "name": "용의 여왕 알렉스트라자",
-    "text": "<b>전투의 함성:</b> 내 덱에 똑같은\n카드가 없으면, 다른 무작위 용족\n둘을 내 손으로 가져옵니다.\n그 용족들의 비용이\n(0)이 됩니다.",
+    "text": "<b>전투의 함성:</b> 내 덱에 똑같은<br></br>카드가 없으면, 다른 무작위 용족<br></br>둘을 내 손으로 가져옵니다.<br></br>그 용족들의 비용이<br></br>(0)이 됩니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -80,7 +80,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]<b>전투의 함성:</b> 내 덱에 똑같은\n카드가 없으면, 다른 무작위 용족\n둘을 내 손으로 가져옵니다.\n그 용족들의 비용이\n(0)이 됩니다.",
+    "nativeRawText": "[x]<b>전투의 함성:</b> 내 덱에 똑같은<br></br>카드가 없으면, 다른 무작위 용족<br></br>둘을 내 손으로 가져옵니다.<br></br>그 용족들의 비용이<br></br>(0)이 됩니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"

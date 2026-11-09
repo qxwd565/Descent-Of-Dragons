@@ -6,7 +6,7 @@
     "id": "DRG_051",
     "dbfId": 55262,
     "name": "집단의 힘",
-    "text": "<b>부가 퀘스트:</b> 하수인으로\n마나를 10 소모해야 합니다.\n<b>보상:</b> 내 덱에서\n하수인을 소환합니다.",
+    "text": "<b>부가 퀘스트:</b> 하수인으로<br></br>마나를 10 소모해야 합니다.<br></br><b>보상:</b> 내 덱에서<br></br>하수인을 소환합니다.",
     "type": "SPELL",
     "cardClass": "DRUID",
     "classes": [],
@@ -63,7 +63,7 @@
         "value": 1
       }
     ],
-    "nativeRawText": "[x]<b>부가 퀘스트:</b> 하수인으로\n마나를 10 소모해야 합니다.\n<b>보상:</b> 내 덱에서\n하수인을 소환합니다.",
+    "nativeRawText": "[x]<b>부가 퀘스트:</b> 하수인으로<br></br>마나를 10 소모해야 합니다.<br></br><b>보상:</b> 내 덱에서<br></br>하수인을 소환합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
     "releaseStatus": "verified"
