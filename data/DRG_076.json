@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "mode": "constructed",
   "englishName": "Faceless Corruptor",
   "card": {
@@ -76,7 +76,25 @@
     "nativeRawText": "<b>속공</b>, <b>전투의 함성:</b> 아군 하수인을 이 하수인으로 변신시킵니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
-    "releaseStatus": "verified"
+    "releaseStatus": "verified",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "patches": [
+      {
+        "date": "2019-12-20",
+        "changes": {
+          "attack": 4
+        }
+      },
+      {
+        "date": "2023-04-05",
+        "changes": {
+          "attack": 5
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],

@@ -1,12 +1,12 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "mode": "constructed",
   "englishName": "Necrium Apothecary",
   "card": {
     "id": "DRG_031",
     "dbfId": 55099,
     "name": "네크리움 약제사",
-    "text": "<b>연계:</b> 내 덱에서 <b>죽음의 메아리</b> 하수인을 뽑습니다.\n그 하수인의 <b>죽음의 메아리</b> 능력도 얻습니다.",
+    "text": "<b>연계:</b> 내 덱에서 <b>죽음의 메아리</b> 하수인을 뽑습니다.<br></br>그 하수인의 <b>죽음의 메아리</b> 능력도 얻습니다.",
     "type": "MINION",
     "cardClass": "ROGUE",
     "classes": [],
@@ -73,10 +73,28 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>연계:</b> 내 덱에서 <b>죽음의 메아리</b> 하수인을 뽑습니다.\n그 하수인의 <b>죽음의 메아리</b> 능력도 얻습니다.",
+    "nativeRawText": "<b>연계:</b> 내 덱에서 <b>죽음의 메아리</b> 하수인을 뽑습니다.<br></br>그 하수인의 <b>죽음의 메아리</b> 능력도 얻습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
-    "releaseStatus": "verified"
+    "releaseStatus": "verified",
+    "mechanics": [
+      "DEATHRATTLE",
+      "COMBO"
+    ],
+    "patches": [
+      {
+        "date": "2020-01-10",
+        "changes": {
+          "cost": 5
+        }
+      },
+      {
+        "date": "2021-03-26",
+        "changes": {
+          "cost": 4
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],

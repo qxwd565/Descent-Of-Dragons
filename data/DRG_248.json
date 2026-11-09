@@ -1,12 +1,12 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "mode": "constructed",
   "englishName": "Invocation of Frost",
   "card": {
     "id": "DRG_248",
     "dbfId": 55248,
     "name": "냉기의 기원",
-    "text": "적을\n<b>빙결</b> 상태로 만듭니다. 갈라크론드의 강림을 <b>기원</b>합니다.",
+    "text": "적을<br></br><b>빙결</b> 상태로 만듭니다. 갈라크론드의 강림을 <b>기원</b>합니다.",
     "type": "SPELL",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -15,7 +15,7 @@
     "rarity": "COMMON",
     "race": "",
     "races": [],
-    "spellSchool": "FROST",
+    "spellSchool": "",
     "cost": 1,
     "attack": 0,
     "health": 0,
@@ -73,10 +73,28 @@
         "value": 1
       }
     ],
-    "nativeRawText": "적을\n<b>빙결</b> 상태로 만듭니다. 갈라크론드의 강림을 <b>기원</b>합니다.",
+    "nativeRawText": "적을<br></br><b>빙결</b> 상태로 만듭니다. 갈라크론드의 강림을 <b>기원</b>합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
-    "releaseStatus": "verified"
+    "releaseStatus": "verified",
+    "mechanics": [
+      "FREEZE"
+    ],
+    "patches": [
+      {
+        "date": "2020-01-10",
+        "changes": {
+          "cost": 2
+        }
+      },
+      {
+        "date": "2021-03-26",
+        "changes": {
+          "cost": 1,
+          "spellSchool": "FROST"
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [

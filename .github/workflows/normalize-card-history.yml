@@ -6,6 +6,7 @@ on:
       - 'cards.json'
       - 'release-policy.json'
       - 'data/**'
+      - 'tools/normalize-card-line-breaks.py'
   workflow_dispatch:
 permissions:
   contents: write
@@ -17,7 +18,9 @@ jobs:
       - name: Fetch verified shared API builder
         run: |
           mkdir -p tools
-          curl --fail --location --retry 3 --silent --show-error 'https://raw.githubusercontent.com/qxwd565/legacy/a39c65fc67695398e454fb01a651ac09d187c5c7/tools/build-api.py' -o tools/build-api.py
+          curl --fail --location --retry 3 --silent --show-error 'https://raw.githubusercontent.com/qxwd565/legacy/509379e8f146d20fa360aca384b19fec908fbabf/tools/build-api.py' -o tools/build-api.py
+      - name: Normalize card display line breaks
+        run: python3 tools/normalize-card-line-breaks.py
       - name: Generate current and historical API indexes
         run: python3 tools/build-api.py
       - name: Commit changed API indexes

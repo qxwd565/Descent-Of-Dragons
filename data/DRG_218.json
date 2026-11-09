@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "mode": "constructed",
   "englishName": "Corrupt Elementalist",
   "card": {
@@ -81,7 +81,24 @@
     "nativeRawText": "<b>전투의 함성:</b> 갈라크론드의 강림을 2회 <b>기원</b>합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
-    "releaseStatus": "verified"
+    "releaseStatus": "verified",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "patches": [
+      {
+        "date": "2019-12-20",
+        "changes": {
+          "cost": 6
+        }
+      },
+      {
+        "date": "2021-03-26",
+        "changes": {
+          "cost": 5
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [

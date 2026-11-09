@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "mode": "constructed",
   "englishName": "Bad Luck Albatross",
   "card": {
@@ -13,7 +13,7 @@
     "nativeSetId": 1347,
     "set": "DRAGONS",
     "rarity": "RARE",
-    "race": "야수",
+    "race": "BEAST",
     "races": [
       "BEAST"
     ],
@@ -83,7 +83,24 @@
     "nativeRawText": "<b>죽음의 메아리:</b> 상대편의 덱에 1/1 알바트로스를 둘 섞어 넣습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
-    "releaseStatus": "verified"
+    "releaseStatus": "verified",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "patches": [
+      {
+        "date": "2020-04-21",
+        "changes": {
+          "cost": 4
+        }
+      },
+      {
+        "date": "2021-03-26",
+        "changes": {
+          "cost": 3
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [

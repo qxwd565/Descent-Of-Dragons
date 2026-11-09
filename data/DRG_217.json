@@ -1,12 +1,12 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "mode": "constructed",
   "englishName": "Dragon's Pack",
   "card": {
     "id": "DRG_217",
     "dbfId": 54967,
     "name": "용의 무리",
-    "text": "<b>도발</b> 능력이 있는 2/3 늑대 정령을 둘 소환합니다. 내가 2회 <b>기원</b>했으면,\n그 하수인들에게 +3/+3을 부여합니다.",
+    "text": "<b>도발</b> 능력이 있는 2/3 늑대 정령을 둘 소환합니다. 내가 2회 <b>기원</b>했으면,<br></br>그 하수인들에게 +3/+3을 부여합니다.",
     "type": "SPELL",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -73,10 +73,27 @@
         "value": 1
       }
     ],
-    "nativeRawText": "<b>도발</b> 능력이 있는 2/3 늑대 정령을 둘 소환합니다. 내가 2회 <b>기원</b>했으면,\n그 하수인들에게 +3/+3을 부여합니다.",
+    "nativeRawText": "<b>도발</b> 능력이 있는 2/3 늑대 정령을 둘 소환합니다. 내가 2회 <b>기원</b>했으면,<br></br>그 하수인들에게 +3/+3을 부여합니다.",
     "nativeTextBuilder": 7,
     "releasedAt": "2019-12-11",
-    "releaseStatus": "verified"
+    "releaseStatus": "verified",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "patches": [
+      {
+        "date": "2020-01-10",
+        "changes": {
+          "text": "<b>도발</b> 능력이 있는 2/3 늑대 정령을 둘 소환합니다. 내가 2회 <b>기원</b>했으면,<br></br>그 하수인들에게 +2/+2을 부여합니다."
+        }
+      },
+      {
+        "date": "2021-03-26",
+        "changes": {
+          "text": "<b>도발</b> 능력이 있는 2/3 늑대 정령을 둘 소환합니다. 내가 2회 <b>기원</b>했으면,<br></br>그 하수인들에게 +3/+3을 부여합니다."
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [

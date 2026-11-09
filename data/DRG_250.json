@@ -1,12 +1,12 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "mode": "constructed",
   "englishName": "Fiendish Rites",
   "card": {
     "id": "DRG_250",
     "dbfId": 55251,
     "name": "악독한 의식",
-    "text": "갈라크론드의 강림을 <b>기원</b>합니다.\n내 하수인들에게 공격력을 +1 부여합니다.",
+    "text": "갈라크론드의 강림을 <b>기원</b>합니다.<br></br>내 하수인들에게 공격력을 +1 부여합니다.",
     "type": "SPELL",
     "cardClass": "WARLOCK",
     "classes": [],
@@ -63,10 +63,24 @@
         "value": 1
       }
     ],
-    "nativeRawText": "갈라크론드의 강림을 <b>기원</b>합니다.\n내 하수인들에게 공격력을 +1 부여합니다.",
+    "nativeRawText": "갈라크론드의 강림을 <b>기원</b>합니다.<br></br>내 하수인들에게 공격력을 +1 부여합니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
-    "releaseStatus": "verified"
+    "releaseStatus": "verified",
+    "patches": [
+      {
+        "date": "2020-01-10",
+        "changes": {
+          "cost": 4
+        }
+      },
+      {
+        "date": "2021-03-26",
+        "changes": {
+          "cost": 3
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [

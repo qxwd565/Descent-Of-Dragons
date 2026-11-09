@@ -1,12 +1,12 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "mode": "constructed",
   "englishName": "Ancharrr",
   "card": {
     "id": "DRG_025",
     "dbfId": 55006,
     "name": "해적의 닻",
-    "text": "내 영웅이 공격한 후에,\n내 덱에서 해적을 뽑습니다.",
+    "text": "내 영웅이 공격한 후에,<br></br>내 덱에서 해적을 뽑습니다.",
     "type": "WEAPON",
     "cardClass": "WARRIOR",
     "classes": [],
@@ -20,7 +20,7 @@
     "attack": 2,
     "health": 0,
     "armor": 0,
-    "durability": 2,
+    "durability": 3,
     "collectible": true,
     "chooseOne": false,
     "installed": true,
@@ -73,10 +73,21 @@
         "value": 1
       }
     ],
-    "nativeRawText": "내 영웅이 공격한 후에,\n내 덱에서 해적을 뽑습니다.",
+    "nativeRawText": "내 영웅이 공격한 후에,<br></br>내 덱에서 해적을 뽑습니다.",
     "nativeTextBuilder": 0,
     "releasedAt": "2019-12-11",
-    "releaseStatus": "verified"
+    "releaseStatus": "verified",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "patches": [
+      {
+        "date": "2020-01-10",
+        "changes": {
+          "durability": 2
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],
