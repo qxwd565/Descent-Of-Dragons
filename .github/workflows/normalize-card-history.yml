@@ -1,34 +1,44 @@
-name: Publish HScard API
+name: Normalize HSdeck dated card API
 on:
   push:
     paths:
       - '.github/workflows/normalize-card-history.yml'
+      - 'data/**'
       - 'cards.json'
       - 'release-policy.json'
-      - 'data/**'
-      - 'tools/normalize-card-line-breaks.py'
+      - 'tools/dated-migration-dates.json'
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: dates-v1-descent-of-dragons-main
+  cancel-in-progress: false
 jobs:
-  publish:
+  migrate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch verified shared API builder
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch pinned shared date converter
         run: |
-          mkdir -p tools
-          curl --fail --location --retry 3 --silent --show-error 'https://raw.githubusercontent.com/qxwd565/legacy/509379e8f146d20fa360aca384b19fec908fbabf/tools/build-api.py' -o tools/build-api.py
-      - name: Normalize card display line breaks
-        run: python3 tools/normalize-card-line-breaks.py
-      - name: Generate current and historical API indexes
-        run: python3 tools/build-api.py
-      - name: Commit changed API indexes
+          mkdir -p /tmp/hsdeck-dated
+          curl -fsSL --retry 3 'https://raw.githubusercontent.com/qxwd565/legacy/733f4fb359732b0a3599029387082e968d77010a/tools/convert-to-dates-v1.py' -o /tmp/hsdeck-dated/convert.py
+      - name: Migrate and verify all cards
+        run: |
+          python /tmp/hsdeck-dated/convert.py --root . --strict
+          python /tmp/hsdeck-dated/convert.py --root . --strict --check
+          git diff --check
+      - name: Commit only date-keyed source documents
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -- cards.json data
+          git add -u -- data/
           if ! git diff --cached --quiet; then
-            git commit -m "Publish card API indexes [skip ci]"
-            git push
+            git commit -m 'Unify Descent-Of-Dragons card records as dates-v1 [skip ci]'
+            git push origin HEAD:main
           fi
