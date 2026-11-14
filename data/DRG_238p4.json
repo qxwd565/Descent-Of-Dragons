@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Galakrond's Fury",
-  "card": {
+  "2019-12-11": {
     "id": "DRG_238p4",
     "dbfId": 55808,
     "name": "갈라크론드의 분노",
@@ -50,26 +47,9 @@
     ],
     "nativeRawText": "<b>속공</b> 능력이 있는<br></br>2/1 정령을 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2019-12-11",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1347,
-    "slug": "descent-of-dragons",
-    "name": "용의 강림",
-    "type": "expansion",
-    "englishName": "Descent Of Dragons"
-  },
-  "setOrder": 26,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Galakrond's Fury",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/DRG_238p4.png"
   }
 }

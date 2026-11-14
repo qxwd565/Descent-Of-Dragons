@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Fire Hawk",
-  "card": {
+  "2019-12-11": {
     "id": "DRG_060",
     "dbfId": 55405,
     "name": "불꽃매",
@@ -83,26 +80,9 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 상대편의 손에 있는 카드 1장당 공격력을 +1 얻습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2019-12-11",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1347,
-    "slug": "descent-of-dragons",
-    "name": "용의 강림",
-    "type": "expansion",
-    "englishName": "Descent Of Dragons"
-  },
-  "setOrder": 26,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Fire Hawk",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/DRG_060.png"
   }
 }

@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Rolling Fireball",
-  "card": {
+  "2019-12-11": {
     "id": "DRG_321",
     "dbfId": 55276,
     "name": "굴러가는 화염구",
@@ -65,26 +62,9 @@
     ],
     "nativeRawText": "하수인에게 피해를 $8 줍니다. 초과한 피해량만큼 양옆에 있는 하수인 중 하나에게 피해를 줍니다. 피해량이 남으면 추가로 발동합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2019-12-11",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1347,
-    "slug": "descent-of-dragons",
-    "name": "용의 강림",
-    "type": "expansion",
-    "englishName": "Descent Of Dragons"
-  },
-  "setOrder": 26,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Rolling Fireball",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/DRG_321.png"
   }
 }

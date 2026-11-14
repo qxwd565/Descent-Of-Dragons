@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Grave Rune",
-  "card": {
+  "2019-12-11": {
     "id": "DRG_302",
     "dbfId": 54873,
     "name": "룬 새기기",
@@ -85,26 +82,9 @@
     ],
     "nativeRawText": "하수인에게 \"<b>죽음의_메아리:</b><br></br>이 하수인을 둘 복사하여 소환함\"능력을 부여합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2019-12-11",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1347,
-    "slug": "descent-of-dragons",
-    "name": "용의 강림",
-    "type": "expansion",
-    "englishName": "Descent Of Dragons"
-  },
-  "setOrder": 26,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Grave Rune",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/DRG_302.png"
   }
 }

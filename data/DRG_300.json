@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Fate Weaver",
-  "card": {
+  "2019-12-11": {
     "id": "DRG_300",
     "dbfId": 54871,
     "name": "운명의 관리자",
@@ -97,26 +94,9 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내가 2회 <b>기원</b>했으면, 내 손에 있는 카드들의 비용을 (1) 감소시킵니다.",
     "nativeTextBuilder": 7,
-    "releasedAt": "2019-12-11",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1347,
-    "slug": "descent-of-dragons",
-    "name": "용의 강림",
-    "type": "expansion",
-    "englishName": "Descent Of Dragons"
-  },
-  "setOrder": 26,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Fate Weaver",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/DRG_300.png"
   }
 }

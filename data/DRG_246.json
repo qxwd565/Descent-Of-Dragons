@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Time Rip",
-  "card": {
+  "2019-12-11": {
     "id": "DRG_246",
     "dbfId": 55245,
     "name": "시간의 균열",
@@ -65,32 +62,15 @@
     ],
     "nativeRawText": "[x]하수인을 처치합니다.<br></br>갈라크론드의 강림을<br></br><b>기원</b>합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2019-12-11",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    55810,
-    57416,
-    57417,
-    57418,
-    55819
-  ],
-  "expansion": {
-    "id": 1347,
-    "slug": "descent-of-dragons",
-    "name": "용의 강림",
-    "type": "expansion",
-    "englishName": "Descent Of Dragons"
-  },
-  "setOrder": 26,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Time Rip",
+    "root": true,
+    "relatedIds": [
+      55810,
+      57416,
+      57417,
+      57418,
+      55819
+    ],
+    "art": "art/DRG_246.png"
   }
 }

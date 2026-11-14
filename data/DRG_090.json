@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Murozond the Infinite",
-  "card": {
+  "2019-12-11": {
     "id": "DRG_090",
     "dbfId": 55438,
     "name": "무한의 무르도즈노",
@@ -82,26 +79,9 @@
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 지난 턴에<br></br>상대편이 낸 카드를<br></br>모두 냅니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2019-12-11",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1347,
-    "slug": "descent-of-dragons",
-    "name": "용의 강림",
-    "type": "expansion",
-    "englishName": "Descent Of Dragons"
-  },
-  "setOrder": 26,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Murozond the Infinite",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/DRG_090.png"
   }
 }

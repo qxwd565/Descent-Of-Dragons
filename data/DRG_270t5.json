@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Malygos's Nova",
-  "card": {
+  "2019-12-11": {
     "id": "DRG_270t5",
     "dbfId": 56168,
     "name": "말리고스의 회오리",
@@ -55,26 +52,9 @@
     ],
     "nativeRawText": "[x]모든 적 하수인을 <b>빙결</b><br></br>상태로 만듭니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2019-12-11",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1347,
-    "slug": "descent-of-dragons",
-    "name": "용의 강림",
-    "type": "expansion",
-    "englishName": "Descent Of Dragons"
-  },
-  "setOrder": 26,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Malygos's Nova",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/DRG_270t5.png"
   }
 }
