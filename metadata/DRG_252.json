@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_252",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS18-150.tif:2c7e62579fd74ad48b33bf6c091c50c0",
+        "flavor": "\"나, 여기 차원 속에 있다.\"",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 20
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 219,
+            "name": "비밀",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "내가 영웅 능력을 사용한 후에, 내 덱에 있는 <b>비밀</b>을 시전합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Phase Stalker",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/DRG_252.png"
+      }
+    }
+  }
+}

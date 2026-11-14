@@ -1,0 +1,65 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_215",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS18-041.tif:f43364f7d4d74f108ba93ddc79b51302",
+        "flavor": "열기구를 부수려면 용이 얼마나 필요할까요? 하나, 둘 셋, 우지끈!",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 215,
+            "name": "과부하",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 4
+          }
+        ],
+        "nativeRawText": "내 하수인들에게 +1/+1을 부여합니다.<br></br><b>과부하:</b> (1)",
+        "nativeTextBuilder": 0,
+        "englishName": "Storm's Wrath",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/DRG_215.png"
+      }
+    }
+  }
+}

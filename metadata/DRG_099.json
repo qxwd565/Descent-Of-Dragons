@@ -1,0 +1,119 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_099",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS18-513.tif:f1d310473b234ff5a09a086485c31d3e",
+        "flavor": "갈라크론드의 커피 취향을 가장 잘 알고 있는 자입니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 6
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 6
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 676,
+            "name": "무작위 선택 제외",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> 갈라크론드를 뽑습니다. 내 영웅이 이미 갈라크론드면, 재앙을 불러옵니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Kronx Dragonhoof",
+        "root": true,
+        "relatedIds": [
+          57689,
+          57690,
+          57693,
+          57694,
+          57691,
+          57416,
+          57419,
+          57427,
+          57329,
+          57413,
+          55810,
+          57417,
+          57418,
+          55819,
+          55806,
+          57421,
+          57420,
+          53160,
+          53161,
+          53162,
+          52897,
+          52900,
+          53163,
+          55378,
+          55808,
+          57432,
+          57433,
+          55809,
+          57434,
+          57435,
+          57436,
+          55807,
+          57330,
+          57331,
+          55366,
+          55805,
+          57414,
+          57415
+        ],
+        "art": "art/DRG_099.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_033",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS18-033.tif:5ac5ac9fe4ed40bda9233c87d15bfcfc",
+        "flavor": "\"그리하여 밀랍비늘이 타오르는 불길을 내뱉었으니, 오라, 악당과 무법자들이여! 충성을 맹세하고 양초를 높이 들어라!\"",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 7
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 2
+          }
+        ],
+        "nativeRawText": "[x]카드를 3장 뽑습니다.<br></br>내 손에 용족이 있으면,<br></br>비용이 (3) 감소합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Candle Breath",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/DRG_033.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_270t5",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "WoW_BLZ_004_D.psd:f151e6e8b06724b49a0701c6eccc37ee",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 3
+          }
+        ],
+        "nativeRawText": "[x]모든 적 하수인을 <b>빙결</b><br></br>상태로 만듭니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Malygos's Nova",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/DRG_270t5.png"
+      }
+    }
+  }
+}

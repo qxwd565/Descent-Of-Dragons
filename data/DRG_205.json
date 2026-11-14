@@ -7,74 +7,9 @@
     "type": "SPELL",
     "cardClass": "WARLOCK",
     "classes": [],
-    "nativeSetId": 1347,
-    "set": "DRAGONS",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
     "spellSchool": "FEL",
     "cost": 2,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS18-054.tif:5a2e12e373d843369b6cbb57cf1964de",
-    "flavor": "\"황천이 차갑든, 황천이 뜨겁든, 우린 함께 타오르리라, 황천이 어떻든, 우리가 어떻든.\"",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 330,
-        "name": "효과 생성 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 331,
-        "name": "효과 지속 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 685,
-        "name": "생명력 흡수",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 7
-      }
-    ],
-    "nativeRawText": "피해를 $2 줍니다. 내 손에 용족이 있으면, <b>생명력 흡수</b> 능력으로 피해를 $4 줍니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Nether Breath",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/DRG_205.png"
+    "collectible": true
   }
 }

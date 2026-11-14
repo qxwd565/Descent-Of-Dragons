@@ -1,0 +1,87 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_202",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS18-055.tif:77ec4c48fb994cfb90e3cb1dbd02a54b",
+        "flavor": "부활했을 때 자기 뼈를 누가 잘근잘근 씹은 흔적이 있다면 화가 날 수밖에 없겠죠.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1263,
+            "name": "기원",
+            "value": 1
+          },
+          {
+            "id": 3623,
+            "name": "게임 태그 3623",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> 갈라크론드의 강림을 <b>기원</b>합니다.<br></br>다른 아군 하수인 하나당 공격력을 +1 얻습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Dragonblight Cultist",
+        "root": true,
+        "relatedIds": [
+          55807,
+          57329,
+          57330,
+          57331,
+          55819,
+          55366
+        ],
+        "art": "art/DRG_202.png"
+      }
+    }
+  }
+}

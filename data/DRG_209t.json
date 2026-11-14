@@ -7,61 +7,14 @@
     "type": "MINION",
     "cardClass": "WARLOCK",
     "classes": [],
-    "nativeSetId": 1347,
-    "set": "DRAGONS",
     "rarity": "",
     "race": "용족",
     "races": [
       "DRAGON"
     ],
-    "spellSchool": "",
     "cost": 6,
     "attack": 6,
     "health": 6,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS18-059.tif:5b89204368c543d189d033d7a8e204d2",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 6
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 24
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      }
-    ],
-    "nativeRawText": "",
-    "nativeTextBuilder": 0,
-    "englishName": "Nether Drake",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/DRG_209t.png"
+    "collectible": false
   }
 }

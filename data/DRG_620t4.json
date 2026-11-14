@@ -7,66 +7,14 @@
     "type": "MINION",
     "cardClass": "SHAMAN",
     "classes": [],
-    "nativeSetId": 1347,
-    "set": "DRAGONS",
     "rarity": "",
     "race": "정령",
     "races": [
       "ELEMENTAL"
     ],
-    "spellSchool": "",
     "cost": 2,
     "attack": 2,
     "health": 2,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS18-250a.tif:561a37bcf40345be875faa8cc5c85213",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 18
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 791,
-        "name": "속공",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>속공</b>",
-    "nativeTextBuilder": 0,
-    "englishName": "Brewing Storm",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/DRG_620t4.png"
+    "collectible": false
   }
 }

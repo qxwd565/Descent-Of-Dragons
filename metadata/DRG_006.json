@@ -1,0 +1,60 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_006",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS18-009.tif:42903b8085b44defa9cc6e5d2e96aac2",
+        "flavor": "신선한 공포를 불어넣을 숨결입니다!",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 4
+          }
+        ],
+        "nativeRawText": "하수인에게 피해를 $3 줍니다. 내 손에 용족이 있으면, 적 영웅에게도 피해를 줍니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Corrosive Breath",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/DRG_006.png"
+      }
+    }
+  }
+}

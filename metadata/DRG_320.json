@@ -1,0 +1,92 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_320",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS18-005.tif:6104fde0bec446f4b9e0f5e0ee2911ce",
+        "flavor": "용족들을 풀어라!",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 12
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 9
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 24
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 55778
+          },
+          {
+            "id": 4392,
+            "name": "게임 태그 4392",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]<b>전투의 함성:</b> 내 덱에 꿈<br></br>차원문을 일곱 섞어 넣습니다.<br></br>꿈 차원문을 뽑으면, 무작위<br></br>용족을 소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Ysera, Unleashed",
+        "root": true,
+        "relatedIds": [
+          55778
+        ],
+        "art": "art/DRG_320.png"
+      }
+    }
+  }
+}

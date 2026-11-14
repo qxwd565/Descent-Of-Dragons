@@ -7,49 +7,8 @@
     "type": "SPELL",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1347,
-    "set": "DRAGONS",
     "rarity": "",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 0,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS18-517.tif:16179ecee4d0434b9029fe06e6a3b653",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 684,
-        "name": "비용 숨김",
-        "value": 1
-      },
-      {
-        "id": 1200,
-        "name": "게임 태그 1200",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "내 다른 하수인들에게 +2/+2를 부여합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Domination",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/DRG_099t3.png"
+    "collectible": false
   }
 }

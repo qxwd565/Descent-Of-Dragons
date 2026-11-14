@@ -7,54 +7,9 @@
     "type": "SPELL",
     "cardClass": "MAGE",
     "classes": [],
-    "nativeSetId": 1347,
-    "set": "DRAGONS",
     "rarity": "",
-    "race": "",
-    "races": [],
     "spellSchool": "ARCANE",
     "cost": 1,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "W19_a058_S.tif:24825e425346b6d46b8ddb3e361745c7",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]무작위 마법사 주문<br></br>셋을 내 손으로<br></br>가져옵니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Malygos's Tome",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/DRG_270t2.png"
+    "collectible": false
   }
 }

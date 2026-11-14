@@ -1,0 +1,60 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_206",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS18-500.tif:de779c5dcbe545fcad92938823dca80a",
+        "flavor": "하늘이 유황과 불로 단풍이 지면 가을이 왔다는 걸 알 수 있죠.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 7
+          }
+        ],
+        "nativeRawText": "<b>모든</b> 캐릭터에게 피해를 $1 줍니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Rain of Fire",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/DRG_206.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_204",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS18-052.tif:1597d1d4f0bf4d1db8954ca38c25d1bb",
+        "flavor": "\"...이제 여기에 불꽃을 한 움큼 뿌려주세요.\"",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 201,
+            "name": "진영",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 7
+          }
+        ],
+        "nativeRawText": "[x]무작위 하수인에게<br></br>피해를 $1 줍니다.<br></br>내 손에 있는 카드의<br></br>수만큼 반복합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Dark Skies",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/DRG_204.png"
+      }
+    }
+  }
+}

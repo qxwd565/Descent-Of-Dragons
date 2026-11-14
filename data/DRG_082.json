@@ -7,76 +7,14 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1347,
-    "set": "DRAGONS",
     "rarity": "EPIC",
     "race": "해적",
     "races": [
       "PIRATE"
     ],
-    "spellSchool": "",
     "cost": 5,
     "attack": 4,
     "health": 4,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS18-082.tif:09bfcb70c7944087befd16f9c2a14546",
-    "flavor": "양초는 가져가지 않습니다. 대신 칼을 가져갑니다.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 23
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>전투의 함성:</b> 상대편의 무기를 가져옵니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Kobold Stickyfinger",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/DRG_082.png"
+    "collectible": true
   }
 }

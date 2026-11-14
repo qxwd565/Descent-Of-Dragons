@@ -1,0 +1,70 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_096",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS18-131.tif:8b993f65b6d04a7fb9d89b19f5767d63",
+        "flavor": "두억시니가 말하기를 언제나 독기에 가득 차있다고 합니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]이 하수인은 내 손에 있으면<br></br>내 턴이 시작될 때마다 무작위<br></br><b>전설</b> 하수인으로 변신합니다.<br></br>능력치는 5/5가 됩니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Bandersmosh",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/DRG_096.png"
+      }
+    }
+  }
+}

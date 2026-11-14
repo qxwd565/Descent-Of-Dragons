@@ -1,0 +1,55 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_315",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS18-002.tif:bcffd924dc0bb364aa5c0dd8e8ea7faf",
+        "flavor": "덩치도 비용도 공평하게 거대해집니다.",
+        "nativeTags": [
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 4
+          }
+        ],
+        "nativeRawText": "내 덱에 있는 모든 하수인에게 +2/+2를 부여하지만 비용을 (1) 증가시킵니다. <i>(최대 10)</i>",
+        "nativeTextBuilder": 0,
+        "englishName": "Embiggen",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/DRG_315.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_036t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS18-038.tif:71c68d82d45240d8b773171f13962c13",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 7
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 1077,
+            "name": "뽑을 때 시전",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>뽑을 때 시전</b><br></br>밀랍비늘을 소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Waxadred's Candle",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/DRG_036t.png"
+      }
+    }
+  }
+}

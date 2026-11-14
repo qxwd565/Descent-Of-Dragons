@@ -1,0 +1,78 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_255",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS18-154.tif:ab95b84fdb7e4cfeb14d3c22f8150e4b",
+        "flavor": "기내에서 예기치 않은 사고가 발생하면, 원활한 탈출을 위해 거대 새총이 준비될 것입니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 535,
+            "name": "퀘스트 완료 조건",
+            "value": 3
+          },
+          {
+            "id": 1089,
+            "name": "퀘스트 보상 데이터베이스 ID",
+            "value": 41127
+          },
+          {
+            "id": 1192,
+            "name": "부가 퀘스트",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 658
+          }
+        ],
+        "nativeRawText": "<b>부가 퀘스트:</b> 내 영웅 능력을 3회 사용해야 합니다.<br></br><b>보상:</b> 2/1 오염된 노움을 셋 소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Toxic Reinforcements",
+        "root": true,
+        "relatedIds": [
+          658,
+          41127
+        ],
+        "art": "art/DRG_255.png"
+      }
+    }
+  }
+}

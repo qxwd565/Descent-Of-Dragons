@@ -7,81 +7,14 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1347,
-    "set": "DRAGONS",
     "rarity": "COMMON",
     "race": "기계",
     "races": [
       "MECHANICAL"
     ],
-    "spellSchool": "",
     "cost": 6,
     "attack": 6,
     "health": 6,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS18-160.tif:98103b371f92486da7d43e3d36d46dab",
-    "flavor": "\"저 구름, 뭘 닮은 거 같아?\" \"골칫거리.\"",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 6
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 191,
-        "name": "은신",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 17
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>전투의 함성:</b><br></br>내 다음 턴까지 내 다른 기계들에게 <b>은신</b>을 부여합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Camouflaged Dirigible",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/DRG_074.png"
+    "collectible": true
   }
 }

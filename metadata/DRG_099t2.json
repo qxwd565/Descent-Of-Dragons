@@ -1,0 +1,50 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_099t2",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS18-515.tif:60669493d7aa49c488c8210aa657200d",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 684,
+            "name": "비용 숨김",
+            "value": 1
+          },
+          {
+            "id": 1200,
+            "name": "게임 태그 1200",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>도발</b> 능력이 있는 8/8 용을 소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Reanimation",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/DRG_099t2.png"
+      }
+    }
+  }
+}

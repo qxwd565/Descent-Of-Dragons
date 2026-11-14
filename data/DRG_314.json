@@ -7,66 +7,9 @@
     "type": "SPELL",
     "cardClass": "DRUID",
     "classes": [],
-    "nativeSetId": 1347,
-    "set": "DRAGONS",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
     "spellSchool": "NATURE",
     "cost": 5,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS18-114.tif:af213a10b706e1849a5f2d0d8c94b46e",
-    "flavor": "될성부른 나무정령은 떡잎부터 알아본다고 하죠.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1452,
-        "name": "수집품 관련 카드 데이터베이스 ID",
-        "value": 56371
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      }
-    ],
-    "nativeRawText": "[x]카드를 2장 뽑습니다.<br></br>내 나무정령 하나당<br></br>비용이 (2)씩 감소합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Aeroponics",
-    "root": true,
-    "relatedIds": [
-      56371
-    ],
-    "art": "art/DRG_314.png"
+    "collectible": true
   }
 }

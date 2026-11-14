@@ -7,89 +7,10 @@
     "type": "MINION",
     "cardClass": "PRIEST",
     "classes": [],
-    "nativeSetId": 1347,
-    "set": "DRAGONS",
     "rarity": "EPIC",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 2,
     "attack": 2,
     "health": 2,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS18-027.tif:0b015464660b4ec380f6a7faff96994f",
-    "flavor": "평가: 다음에는 주변을 잘 알고 방향 감각이 있는 자를 지배할 것.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 330,
-        "name": "효과 생성 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 331,
-        "name": "효과 지속 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 3169,
-        "name": "게임 태그 3169",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>전투의 함성:</b> 카드 3장이 제시됩니다. 상대편의 손에 있는 카드를 맞히면 그 카드를 복사하여 내 손으로 가져옵니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Envoy of Lazul",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/DRG_306.png"
+    "collectible": true
   }
 }

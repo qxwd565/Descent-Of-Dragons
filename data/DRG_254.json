@@ -7,101 +7,14 @@
     "type": "MINION",
     "cardClass": "HUNTER",
     "classes": [],
-    "nativeSetId": 1347,
-    "set": "DRAGONS",
     "rarity": "COMMON",
     "race": "용족",
     "races": [
       "DRAGON"
     ],
-    "spellSchool": "",
     "cost": 3,
     "attack": 2,
     "health": 3,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS18-008.tif:70259adea35a4cc39fa194da441b4583",
-    "flavor": "\"독성이 있는 용한테 가방을 맡기라고요?\"",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 24
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 363,
-        "name": "독성",
-        "value": 1
-      },
-      {
-        "id": 415,
-        "name": "발견",
-        "value": 1
-      },
-      {
-        "id": 1342,
-        "name": "발견 시각 효과",
-        "value": 1
-      },
-      {
-        "id": 4533,
-        "name": "제작 결과 능력",
-        "value": 1
-      },
-      {
-        "id": 4578,
-        "name": "게임 태그 4578",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>독성</b>, <b>전투의 함성</b>:&<br></br>용족을 <b>발견</b>합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Primordial Explorer",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/DRG_254.png"
+    "collectible": true
   }
 }

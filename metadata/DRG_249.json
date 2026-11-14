@@ -1,0 +1,76 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_249",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS18-139.tif:180b78d651d2448bacbb7ad0dda799e7",
+        "flavor": "절대 무시할 수 없는 모닝콜입니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 10
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1263,
+            "name": "기원",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 2
+          },
+          {
+            "id": 3623,
+            "name": "게임 태그 3623",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "갈라크론드의 강림을 <b>기원</b>합니다. <b>모든</b> 하수인에게<br></br>피해를 $1 줍니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Awaken!",
+        "root": true,
+        "relatedIds": [
+          55805,
+          57413,
+          57414,
+          57415,
+          55819
+        ],
+        "art": "art/DRG_249.png"
+      }
+    }
+  }
+}

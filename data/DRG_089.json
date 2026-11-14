@@ -7,81 +7,14 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1347,
-    "set": "DRAGONS",
     "rarity": "LEGENDARY",
     "race": "용족",
     "races": [
       "DRAGON"
     ],
-    "spellSchool": "",
     "cost": 9,
     "attack": 8,
     "health": 8,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS18-087.tif:61976dc54f084d5bb25b1097cd5366a7",
-    "flavor": "용의 여왕 알렉스트라자로 생성되었던 용의 여왕 알렉스트라자로 생성되었던...",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 8
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 8
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 9
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 24
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]<b>전투의 함성:</b> 내 덱에 똑같은<br></br>카드가 없으면, 다른 무작위 용족<br></br>둘을 내 손으로 가져옵니다.<br></br>그 용족들의 비용이<br></br>(0)이 됩니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Dragonqueen Alexstrasza",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/DRG_089.png"
+    "collectible": true
   }
 }

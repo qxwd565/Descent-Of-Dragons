@@ -7,44 +7,8 @@
     "type": "HERO_POWER",
     "cardClass": "ROGUE",
     "classes": [],
-    "nativeSetId": 1347,
-    "set": "DRAGONS",
     "rarity": "",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 2,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS18-119.tif:eefe561835695574b9ef6e671ad33151",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 7
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 10
-      }
-    ],
-    "nativeRawText": "무작위 <b>졸개</b>를<br></br>내 손으로 가져옵니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Galakrond's Guile",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/DRG_238p2.png"
+    "collectible": false
   }
 }

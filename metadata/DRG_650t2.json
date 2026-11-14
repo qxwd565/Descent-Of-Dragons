@@ -1,0 +1,92 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_650t2",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS18-135.tif:4ab1762924e041a79f08cb3b117ae253",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 3,
+            "name": "효과 수치 2",
+            "value": 2
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 30
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 7
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 10
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 3
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 292,
+            "name": "방어도",
+            "value": 5
+          },
+          {
+            "id": 380,
+            "name": "영웅 능력",
+            "value": 55805
+          },
+          {
+            "id": 1365,
+            "name": "갈라크론드 영웅 카드",
+            "value": 1
+          },
+          {
+            "id": 1724,
+            "name": "게임 태그 1724",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> 하수인을 둘 뽑습니다. 그 하수인들에게 +4/+4를 부여합니다.<br></br>[x]<i>(@)</i>",
+        "nativeTextBuilder": 8,
+        "englishName": "Galakrond, the Apocalypse",
+        "root": false,
+        "relatedIds": [
+          55805
+        ],
+        "art": "art/DRG_650t2.png"
+      }
+    }
+  }
+}

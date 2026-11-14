@@ -7,54 +7,9 @@
     "type": "SPELL",
     "cardClass": "DRUID",
     "classes": [],
-    "nativeSetId": 1347,
-    "set": "DRAGONS",
     "rarity": "",
-    "race": "",
-    "races": [],
     "spellSchool": "NATURE",
     "cost": 9,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS8-075.tif:d9e16bffbaeeaff4cb7e89f878258bb0",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 9
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 1077,
-        "name": "뽑을 때 시전",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      }
-    ],
-    "nativeRawText": "<b>뽑을 때 시전</b><br></br>무작위 용족을 소환합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Dream Portal",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/DRG_320t.png"
+    "collectible": false
   }
 }

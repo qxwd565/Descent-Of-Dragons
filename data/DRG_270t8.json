@@ -7,49 +7,9 @@
     "type": "SPELL",
     "cardClass": "MAGE",
     "classes": [],
-    "nativeSetId": 1347,
-    "set": "DRAGONS",
     "rarity": "",
-    "race": "",
-    "races": [],
     "spellSchool": "FROST",
     "cost": 0,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "WoW_CHI_006_D.psd:808ad7bfce2d0fa4cbcbf24749c70492",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 3
-      }
-    ],
-    "nativeRawText": "[x]캐릭터에게<br></br>피해를 $3 주고<br></br><b>빙결</b> 상태로 만듭니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Malygos's Frostbolt",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/DRG_270t8.png"
+    "collectible": false
   }
 }

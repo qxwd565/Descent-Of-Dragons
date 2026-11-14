@@ -1,0 +1,88 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_224",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS18-241.tif:c5e7252233b14edba1bc79591782df49",
+        "flavor": "알들은 폭풍 비룡으로 부화합니다. 두 마리가.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 24
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 791,
+            "name": "속공",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]<b>전투의 함성:</b> 0/3 알을<br></br>둘 소환합니다. 알들은 다음<br></br>턴에 <b>속공</b> 능력이 있는 4/4<br></br>비룡으로 부화합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Nithogg",
+        "root": true,
+        "relatedIds": [
+          55025,
+          55026
+        ],
+        "art": "art/DRG_224.png"
+      }
+    }
+  }
+}

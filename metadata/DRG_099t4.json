@@ -1,0 +1,55 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "DRG_099t4",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-12-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-12-11": {
+        "nativeSetId": 1347,
+        "set": "DRAGONS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS18-518.tif:8caf928cefc24ddba5c9e2f4dddcb3e5",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 349,
+            "name": "게임 태그 349",
+            "value": 1
+          },
+          {
+            "id": 684,
+            "name": "비용 숨김",
+            "value": 1
+          },
+          {
+            "id": 1200,
+            "name": "게임 태그 1200",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]다른 <b>모든</b> 하수인에게<br></br>피해를 5 줍니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Annihilation",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/DRG_099t4.png"
+      }
+    }
+  }
+}
